@@ -1,0 +1,28 @@
+{
+	"name" : "RestartRound",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 64
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 66
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 74
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 76
+		}
+	]
+}	

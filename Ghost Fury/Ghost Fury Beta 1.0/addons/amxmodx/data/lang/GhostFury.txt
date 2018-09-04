@@ -1,0 +1,81 @@
+[en]
+GAME_NAME = Ghost Fury
+
+NOTICE_PLAYERREQUIRED = Waiting for players to join...
+NOTICE_GAMESTART = Game is starting...
+NOTICE_COUNTDOWN = %i second(s) remaining for ghosts to arrive!
+
+NOTICE_TRANS_GHOST_B = [WARNING]^n You've turned into a ghost.
+NOTICE_TRANS_GHOST_S = (Press [Q] to activate 'Infinite Walking')
+
+LOADING_HELP = [HELP]
+LOADING_TIP1 = Press [Q] to activate 'Infinite Walking' to move freely and go through the walls
+LOADING_TIP2 = As a ghost, Avoid human's flashlight as it makes you visible
+LOADING_TIP3 = Use flashlight and shine the ghosts to see them
+
+NOTICE_HUMAN_TIP1 = Shrine the ghosts to make them visible!
+NOTICE_HUMAN_TIP2 = Stick together to survive the ghost attacks!
+NOTICE_HUMAN_TIP3 = Going or Stay alone means death!
+
+NOTICE_ALIVETIME = Be alive, good luck!
+NOTICE_HUMANWIN_B = Humans Win!
+NOTICE_GHOSTWIN_B = Ghosts Win!
+NOTICE_HUMANWIN_S = Humans have survived the ghosts
+NOTICE_GHOSTWIN_S = Ghosts have annihilated all the humans
+
+WPN_MENU_NAME = Equipment
+WPN_MENU_SELECT = Select
+WPN_MENU_PRIMARY = Primary Weapon
+WPN_MENU_SECONDARY = Secondary Weapon
+WPN_MENU_MELEE = Melee Weapon
+WPN_MENU_TAKEWPN = GET WEAPONS!
+WPN_NOTICE_UNLOCKED = You've unlocked !t%s!n with !t$%i!n!
+WPN_NOTICE_NEEDMONEY = You need !t$%i!n to unlock !t%s!n...
+
+
+GAME_MENU_NAME = Game Menu
+GAME_MENU_EQUIP = Equipment
+GAME_MENU_JOINSPEC = Join Spectator
+GAME_MENU_HELP = Help
+GAME_NOTICE_JOINSPECTIME = You have to wait %i second(s) to Join Spectator!
+GAME_NOTICE_REMINDHELP = Press !t[M]!n and !t[3]!n to know how to play this game!
+GAME_HELP_TITLE = Ghost Fury - Help
+GAME_HELP_MOTD :
+<html>
+	<head>
+		<style type="text/css">
+			pre
+			{
+				font-family:Verdana,Tahoma;
+				color:#FFFFFF;
+			}
+
+			body
+			{
+				background:#000000;
+				margin-left:8px;
+				margin-top:0px;
+			}
+		</style>
+	</head>
+
+	<body scroll="no">
+		<pre>
+			<center>
+			<b>Ghost Fury (#VERSION#) by #AUTHOR#</b>
+			^n^n^n
+			Ghost Fury is a horror gameplay for Counter-Strike 1.6. This mode features a ghost ^n
+			that is nearly invisible and can freely move across the map due to their ability ^n
+			to float and go through walls. At start, some players will be chosen to be ghosts. ^n
+			Origin ghosts have 200HP while host ones have 150 HP.
+			^n^n^n
+			<b>Ghost:</b> Turn all humans into ghosts by killing them^n
+			<b>Human:</b> Annihilate all ghosts or survive until the daybreak
+			^n^n^n
+			* Ghost can use 'Infinite Walking' skill by pressing [Q] (Walk through the walls, fly)^n
+			* Ghosts are invisible, Humans can use Flashlight to shrine them and make them visible.
+			</center>
+		</pre>
+	</body>
+</html>
+:

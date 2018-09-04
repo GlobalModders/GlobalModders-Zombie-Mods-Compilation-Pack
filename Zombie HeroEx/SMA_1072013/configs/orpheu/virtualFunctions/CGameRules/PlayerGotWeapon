@@ -1,0 +1,86 @@
+{
+	"name" : "PlayerGotWeapon",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		},
+		{
+			"type" : "CBasePlayerItem *"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 30
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 31
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 33
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 31
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 33
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 30
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 32
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 30
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 32
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 29
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 31
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 30
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 32
+		}
+	]
+}	

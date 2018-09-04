@@ -1,0 +1,18 @@
+{
+	"name" : "CheckMapConditions",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 62
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 64
+		}
+	]
+}	

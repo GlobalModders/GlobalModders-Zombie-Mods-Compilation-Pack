@@ -1,0 +1,28 @@
+{
+	"name" : "SetBloodSprite",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "short"
+		}
+	],
+	"return" : 
+	{
+		"type" : "short"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 108
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 110
+		}
+	]
+}	

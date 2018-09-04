@@ -1,0 +1,22 @@
+{
+	"name" : "IsRoundFrozen",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 76
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 78
+		}
+	]
+}	

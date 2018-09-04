@@ -1,0 +1,24 @@
+{
+	"name" : "SetGameStarted",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "bool"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 72
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 74
+		}
+	]
+}	

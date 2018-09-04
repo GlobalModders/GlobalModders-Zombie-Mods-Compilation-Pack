@@ -1,0 +1,22 @@
+{
+	"name" : "RecalculateHandicap",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "float"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 85
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 87
+		}
+	]
+}	

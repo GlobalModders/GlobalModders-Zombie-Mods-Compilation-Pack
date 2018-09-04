@@ -1,0 +1,77 @@
+{
+	"name" : "PlayTextureSounds",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 56
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 57
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 59
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 57
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 59
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 56
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 58
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 56
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 58
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 55
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 57
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 51
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 53
+		}
+	]
+}	

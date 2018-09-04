@@ -1,0 +1,82 @@
+{
+	"name" : "PlayerGotItem",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		},
+		{
+			"type" : "CItem *"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 36
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 37
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 39
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 37
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 39
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 36
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 38
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 36
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 38
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 35
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 37
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 36
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 38
+		}
+	]
+}	

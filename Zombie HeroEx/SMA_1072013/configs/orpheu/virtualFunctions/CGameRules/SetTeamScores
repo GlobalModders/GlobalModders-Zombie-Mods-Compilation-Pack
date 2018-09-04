@@ -1,0 +1,31 @@
+{
+	"name" : "SetTeamScores",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "int"
+		},
+		{
+			"type" : "int"
+		}
+	],
+	"return" : 
+	{
+		"type" : "int"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 71
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 73
+		}
+	]
+}	

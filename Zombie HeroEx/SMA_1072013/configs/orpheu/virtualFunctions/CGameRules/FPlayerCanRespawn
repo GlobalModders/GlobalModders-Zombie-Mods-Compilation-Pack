@@ -1,0 +1,83 @@
+{
+	"name" : "FPlayerCanRespawn",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 20
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 20
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 22
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 20
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 22
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 20
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 22
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 20
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 22
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 19
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 21
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 20
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 22
+		}
+	]
+}	

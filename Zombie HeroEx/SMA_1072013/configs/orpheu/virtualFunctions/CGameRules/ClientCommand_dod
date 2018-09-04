@@ -1,0 +1,34 @@
+{
+	"name" : "ClientCommand_dod",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"arguments" : 
+	[
+		{
+			"type" : "int"
+		},
+		{
+			"type" : "int"
+		},
+		{
+			"type" : "char *"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 24
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 26
+		}
+	]
+}	

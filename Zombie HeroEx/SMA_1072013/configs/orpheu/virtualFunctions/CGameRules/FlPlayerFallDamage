@@ -1,0 +1,83 @@
+{
+	"name" : "FlPlayerFallDamage",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		}
+	],
+	"return" : 
+	{
+		"type" : "float"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 15
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 15
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 17
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 15
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 17
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 15
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 17
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 15
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 17
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 14
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 16
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 15
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 17
+		}
+	]
+}	

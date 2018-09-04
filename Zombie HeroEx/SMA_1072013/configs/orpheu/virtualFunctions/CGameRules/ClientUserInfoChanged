@@ -1,0 +1,82 @@
+{
+	"name" : "ClientUserInfoChanged",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		},
+		{
+			"type" : "char *"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 25
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 26
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 28
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 25
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 27
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 25
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 27
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 25
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 27
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 24
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 26
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 25
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 27
+		}
+	]
+}	

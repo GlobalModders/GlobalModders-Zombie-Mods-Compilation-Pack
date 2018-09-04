@@ -1,0 +1,21 @@
+[
+    {
+        "name"        : "ppmove",
+        "library"     : "mod",
+        "type"        : "playermove_s *",
+        "memoryType"  : "data",
+        "identifiers" : 
+        [
+            {
+                "os"    : "windows",
+                "mod"   : "cstrike",
+                "value" : 0x168AFC
+            },
+			{
+                "os"    : "linux",
+                "mod"   : "cstrike",
+                "value" : 0x1DFA68
+            }
+        ]
+    }   
+]

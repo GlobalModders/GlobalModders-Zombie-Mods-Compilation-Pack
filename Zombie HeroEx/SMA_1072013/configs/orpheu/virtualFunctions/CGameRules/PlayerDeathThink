@@ -1,0 +1,24 @@
+{
+	"name" : "PlayerDeathThink",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 26
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 28
+		}
+	]
+}	

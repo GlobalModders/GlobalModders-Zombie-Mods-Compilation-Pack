@@ -1,0 +1,24 @@
+{
+	"name" : "SetRoundState",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "int"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 63
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 65
+		}
+	]
+}	

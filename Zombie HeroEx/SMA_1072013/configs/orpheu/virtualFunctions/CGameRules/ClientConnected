@@ -1,0 +1,88 @@
+{
+	"name" : "ClientConnected",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "edict_s *"
+		},
+		{
+			"type" : "char *"
+		},
+		{
+			"type" : "char *"
+		},
+		{
+			"type" : "char *"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 11
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 11
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 13
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 12
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 14
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 11
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 13
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 11
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 13
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 10
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 12
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 11
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 13
+		}
+	]
+}	

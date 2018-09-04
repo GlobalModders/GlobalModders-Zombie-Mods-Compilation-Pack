@@ -1,0 +1,83 @@
+{
+	"name" : "DeadPlayerAmmo",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		}
+	],
+	"return" : 
+	{
+		"type" : "int"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 48
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 49
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 51
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 49
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 51
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 48
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 50
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 48
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 50
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 47
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 49
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 48
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 50
+		}
+	]
+}	

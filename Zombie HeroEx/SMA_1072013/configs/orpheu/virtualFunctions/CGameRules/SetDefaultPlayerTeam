@@ -1,0 +1,73 @@
+{
+	"name" : "SetDefaultPlayerTeam",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		}
+	],
+	"return" : 
+	{
+		"type" : "char *"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 55
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 56
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 58
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 56
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 58
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 55
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 57
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 55
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 57
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 54
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 56
+		}
+	]
+}	

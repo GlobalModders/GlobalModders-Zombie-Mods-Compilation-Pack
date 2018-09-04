@@ -1,0 +1,86 @@
+{
+	"name" : "IPointsForKill",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "int"
+	},
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		},
+		{
+			"type" : "CBasePlayer *"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 26
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 27
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 29
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 27
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 29
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 26
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 28
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 26
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 28
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 25
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 27
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 26
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 28
+		}
+	]
+}	

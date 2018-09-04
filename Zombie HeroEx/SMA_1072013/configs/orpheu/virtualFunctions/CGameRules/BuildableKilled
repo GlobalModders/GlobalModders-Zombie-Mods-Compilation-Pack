@@ -1,0 +1,24 @@
+{
+	"name" : "BuildableKilled",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "AvHBuildable *"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 67
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 69
+		}
+	]
+}	

@@ -1,0 +1,22 @@
+{
+	"name" : "GetGameStarted",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 70
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 72
+		}
+	]
+}	

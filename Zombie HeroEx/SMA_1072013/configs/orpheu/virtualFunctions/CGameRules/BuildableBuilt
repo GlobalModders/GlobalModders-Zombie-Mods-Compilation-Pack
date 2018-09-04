@@ -1,0 +1,24 @@
+{
+	"name" : "BuildableBuilt",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "AvHBuildable *"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 66
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 68
+		}
+	]
+}	

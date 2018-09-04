@@ -1,0 +1,83 @@
+{
+	"name" : "GetTeamID",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBaseEntity *"
+		}
+	],
+	"return" : 
+	{
+		"type" : "char *"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 49
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 50
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 52
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 50
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 52
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 49
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 51
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 49
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 51
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 48
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 50
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 49
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 51
+		}
+	]
+}	

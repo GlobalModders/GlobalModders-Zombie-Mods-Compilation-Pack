@@ -1,0 +1,22 @@
+{
+	"name" : "ReturnGameRules",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "CGameRules *"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 120
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 122
+		}
+	]
+}	

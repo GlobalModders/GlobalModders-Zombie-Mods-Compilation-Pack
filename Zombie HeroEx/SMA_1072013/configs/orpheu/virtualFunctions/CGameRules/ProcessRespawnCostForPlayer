@@ -1,0 +1,24 @@
+{
+	"name" : "ProcessRespawnCostForPlayer",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "AvHPlayer *"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 74
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 76
+		}
+	]
+}	

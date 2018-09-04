@@ -1,0 +1,77 @@
+{
+	"name" : "IsDeathmatch",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 7
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 7
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 9
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 8
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 10
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 7
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 9
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 7
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 9
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 6
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 8
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 7
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 9
+		}
+	]
+}	

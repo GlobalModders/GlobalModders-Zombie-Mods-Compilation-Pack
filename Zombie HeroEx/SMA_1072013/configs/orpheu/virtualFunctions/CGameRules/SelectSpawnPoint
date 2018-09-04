@@ -1,0 +1,28 @@
+{
+	"name" : "SelectSpawnPoint",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBaseEntity *"
+		}
+	],
+	"return" : 
+	{
+		"type" : "CBaseEntity *"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 84
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 86
+		}
+	]
+}	

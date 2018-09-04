@@ -1,0 +1,79 @@
+{
+	"name" : "PlayerThink",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 19
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 19
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 21
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 19
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 20
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 19
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 21
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 19
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 21
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 18
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 20
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 19
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 21
+		}
+	]
+}	

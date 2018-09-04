@@ -1,0 +1,67 @@
+{
+	"name" : "FAllowFlashlight",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 3
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 3
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 5
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 4
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 6
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 3
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 5
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 3
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 5
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 3
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 5
+		}
+	]
+}	

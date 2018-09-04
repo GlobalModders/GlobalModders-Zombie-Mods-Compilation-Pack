@@ -1,0 +1,31 @@
+{
+	"name" : "SetRestartTime",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "int"
+		},
+		{
+			"type" : "float"
+		}
+	],
+	"return" : 
+	{
+		"type" : "int"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 65
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 67
+		}
+	]
+}	

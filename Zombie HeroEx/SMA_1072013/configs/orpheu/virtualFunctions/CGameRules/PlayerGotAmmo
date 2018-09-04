@@ -1,0 +1,86 @@
+{
+	"name" : "PlayerGotAmmo",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		},
+		{
+			"type" : "char *"
+		},
+		{
+			"type" : "int"
+		}
+		
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 41
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 42
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 44
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 42
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 44
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 41
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 43
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 41
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 43
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 40
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 42
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 41
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 43
+		}
+	]
+}	

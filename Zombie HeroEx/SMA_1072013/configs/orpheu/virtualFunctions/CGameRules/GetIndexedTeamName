@@ -1,0 +1,73 @@
+{
+	"name" : "GetIndexedTeamName",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "int"
+		}
+	],
+	"return" : 
+	{
+		"type" : "char *"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 52
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 53
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 55
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 53
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 55
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 52
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 54
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 52
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 54
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 51
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 53
+		}
+	]
+}	

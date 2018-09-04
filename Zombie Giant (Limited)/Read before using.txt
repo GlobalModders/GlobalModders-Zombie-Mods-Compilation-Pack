@@ -1,0 +1,16 @@
+Before playing in a map, you have to config the spawn points for that map otherwise boss will get stuck on spawn.
+This is a useful plugin that allows you to do that: https://forums.alliedmods.net/showthread.php?p=371317
+
+For each map, you need: '32 CT Spawnpoints' and '5 T Spawnpoints' (CT = Human, T = Boss). Make each T spawnpoint far to each other
+Also, somemaps like 'awp map' may cause crash to the server, not the plugin... Don't be misunderstand
+
+Just compile all sma files and run the server. If you feel the gameplay is unbalanced, you can open sma and set something like:
+- Boss Base Health (Boss HP = Base HP * Player Number) (EX: Base HP 1000 , 3 Players, -> 3 x 1000 = 3000HP)
+- Boss Speed (each boss has different speed)
+- If you don't feel 5 minutes per round good, you can change to 3, 6, 9 or 10
+- Boss skill damages: Each skill has a damage, you can change it to make your server balance or just leave it default
+
+Also there is a lang file, you can translate it, but do it carefully or it may cause problem
+When you are installing the mod, remember to add 'gamemaster' in modules.ini
+
+I also attach a map 'zm_x3', i think you can play in this map.

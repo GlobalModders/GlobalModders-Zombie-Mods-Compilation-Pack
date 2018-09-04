@@ -1,0 +1,7 @@
+Added Supplybox
+Added Damage Increase by range
+Fixed Regular Zombie
+Added Select Hero Weapon: SVDEX, M134 Vulcan, Dual Kriss Custom
+Added Select Sidekick Weapon: Guillotine, Cannon, Saw, Spear
+Added Dual Desert Eagle
+Added Reselect zombie class on respawn

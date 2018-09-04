@@ -1,0 +1,28 @@
+{
+	"name" : "SetRocketTrail",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "short"
+		}
+	],
+	"return" : 
+	{
+		"type" : "short"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 119
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 121
+		}
+	]
+}	

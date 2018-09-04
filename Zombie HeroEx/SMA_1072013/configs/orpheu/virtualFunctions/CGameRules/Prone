@@ -1,0 +1,22 @@
+{
+	"name" : "Prone",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "short"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 87
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 89
+		}
+	]
+}	

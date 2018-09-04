@@ -1,0 +1,75 @@
+{
+	"name" : "DeathNotice",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		},
+		{
+			"type" : "entvars_s *"
+		},
+		{
+			"type" : "entvars_s *"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 28
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 29
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 31
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 28
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 30
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 28
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 30
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 27
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 29
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 28
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 30
+		}
+	]
+}	

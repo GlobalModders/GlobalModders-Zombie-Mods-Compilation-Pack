@@ -1,0 +1,34 @@
+{
+	"name" : "setWaveTime",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "int"
+		},
+		{
+			"type" : "int"
+		},
+		{
+			"type" : "float"
+		}
+	],
+	"return" : 
+	{
+		"type" : "int"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 69
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 71
+		}
+	]
+}	

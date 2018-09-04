@@ -1,0 +1,37 @@
+{
+	"name" : "ChangePlayerTeam_dod",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		},
+		{
+			"type" : "int"
+		},
+		{
+			"type" : "int"
+		},
+		{
+			"type" : "int"
+		}
+	],
+	"return" : 
+	{
+		"type" : "int"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 122
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 124
+		}
+	]
+}	

@@ -1,0 +1,83 @@
+{
+	"name" : "FlWeaponTryRespawn",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "float"
+	},
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayerItem *"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 33
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 34
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 36
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 34
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 36
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 33
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 35
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 33
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 35
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 32
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 34
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 33
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 35
+		}
+	]
+}	

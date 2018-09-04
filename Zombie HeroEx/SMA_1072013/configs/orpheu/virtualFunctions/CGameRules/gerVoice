@@ -1,0 +1,22 @@
+{
+	"name" : "gerVoice",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "short"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 84
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 86
+		}
+	]
+}	

@@ -1,0 +1,77 @@
+{
+	"name" : "FlHealthChargerRechargeTime",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "float"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 45
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 46
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 48
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 46
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 48
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 45
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 47
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 45
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 47
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 44
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 46
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 45
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 47
+		}
+	]
+}	

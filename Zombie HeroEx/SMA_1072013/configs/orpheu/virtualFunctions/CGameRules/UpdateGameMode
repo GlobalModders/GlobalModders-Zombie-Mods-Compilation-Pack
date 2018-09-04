@@ -1,0 +1,69 @@
+{
+	"name" : "UpdateGameMode",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 14
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 14
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 16
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 14
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 16
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 14
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 16
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 13
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 15
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 14
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 16
+		}
+	]
+}	

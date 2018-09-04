@@ -1,0 +1,27 @@
+{
+    "name" : "InstallGameRules_tfc",
+    "library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "char *"
+		}
+	],
+    "return" : 
+    {
+        "type" : "CHalfLifeMultiplay *"
+    },
+    "identifiers":
+    [
+		{
+            "os" : "windows",
+            "mod" : "tfc",
+            "value" : [0xA1,"*","*","*","*",0x85,0xC0,0x74,0x09,0x50,0xE8,"*","*","*","*",0x83,0xC4,0x04]
+        },
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : "InstallGameRules__FPc"
+		}
+    ]
+}  

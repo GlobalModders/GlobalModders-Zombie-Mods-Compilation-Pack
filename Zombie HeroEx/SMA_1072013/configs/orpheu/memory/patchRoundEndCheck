@@ -1,0 +1,240 @@
+[
+    {
+        "name"        : "CTWinCheck_#1",
+        "library"     : "mod",
+        "type"        : "byte",
+        "memoryType"  : "data",
+        "info"        : "build >= 5408",
+        "identifiers" : 
+        [
+            {
+                "os"    : "windows",
+                "mod"   : "cstrike",
+                "value" : [0x68,"*","*","*","*",0x56,0xE8,"*","*","*","*",0x83,"*","*",0x85,0xC0,0x74,"*",0x80]
+            },
+            {
+                "os"    : "linux",
+                "mod"   : "cstrike",
+                "value" : [0x83,"*","*",0x68,"*","*","*","*",0x6A,"*",0xE8,"*","*","*","*",0x83,"*","*",0x85,0xC0,0x74,"*",0xBE,"*","*","*","*",0x80]
+            }
+        ]
+    },
+    {
+        "name"        : "CTWinCheck_#2",
+        "library"     : "mod",
+        "type"        : "byte",
+        "memoryType"  : "data",
+        "info"        : "build < 5408",
+        "identifiers" : 
+        [
+            {
+                "os"    : "windows",
+                "mod"   : "cstrike",
+                "value" : [0x68,"*","*","*","*",0x56,0xE8,"*","*","*","*",0x83,"*","*",0x85,0xC0,0x74,"*",0x80]
+            },
+            {
+                "os"    : "linux",
+                "mod"   : "cstrike",
+                "value" : [0x83,"*","*",0x8D,"*","*","*","*","*",0x56,0x6A,"*",0xEB,"*",0x89,"*",0x80]
+            }
+        ]
+    },
+    {
+        "name"        : "TerroristWinCheck_#1",
+        "library"     : "mod",
+        "type"        : "byte",
+        "memoryType"  : "data",
+        "info"        : "build >= 5408",
+        "identifiers" : 
+        [ 
+            {
+                "os"    : "windows",
+                "mod"   : "cstrike", 
+                "value" : [0xD9,"*",0xE9,"*","*","*","*",0x39,"*","*","*",0x0F,"*","*","*","*","*",0x39,"*","*","*",0x0F,"*","*","*","*","*",0x33,0xC0,0x8A],
+                "displacement" : 17
+            },
+            {
+                "os"    : "linux",
+                "mod"   : "cstrike",
+                "value" : [0x0F,"*","*","*","*","*",0x85,0xC0,0x0F,"*","*","*","*","*",0xBA,"*","*","*","*",0x85,0xD2,0x74,"*",0xA1,"*","*","*","*",0x89,0x44,"*","*",0xA1,0xA6],
+                "displacement" : 6
+            }
+        ]
+    },
+    {
+        "name"        : "TerroristWinCheck_#2",
+        "library"     : "mod",
+        "type"        : "byte",
+        "memoryType"  : "data",
+        "info"        : "build < 5408",
+        "identifiers" : 
+        [
+            {
+                "os"    : "windows",
+                "mod"   : "cstrike",
+                "value" : [0x8B,0x44,"*","*",0x85,0xC0,0x0F,"*","*","*","*","*",0xB9,"*","*","*","*",0x85,0xC9,0x0F,"*","*","*","*","*",0xBF,"*","*","*","*",0x83,0xC9,"*",0x33,0xC0,0x8D,0x54,"*","*",0xF2]
+            },
+            {
+                "os"    : "linux",
+                "mod"   : "cstrike",
+                "value" : [0x0F,"*","*","*","*","*",0x85,0xC0,0x0F,"*","*","*","*","*",0x8D,0x93,"*","*","*","*",0x85,0xD2,0x0F,"*","*","*","*","*",0x8B,0x83],
+                "displacement" : 6
+            }
+        ]
+    },
+    {
+        "name"        : "RoundDrawCheck_#1",
+        "library"     : "mod",
+        "type"        : "byte",
+        "memoryType"  : "data",
+        "info"        : "build >= 5408",
+        "identifiers" : 
+        [
+            {
+                "os"    : "windows",
+                "mod"   : "cstrike",
+                "value" : [0xC3,0x39,"*","*","*",0x0F,"*","*","*","*","*",0x3B,0xCE,0x0F,"*","*","*","*","*",0x6A,"*",0x68],
+                "displacement" : 1
+            },
+            {
+                "os"    : "linux",
+                "mod"   : "cstrike",
+                "value" : [0x8D,"*","*",0x83,"*","*","*","*",0x0F,"*","*","*","*","*",0x85,"*",0x0F,"*","*","*","*","*",0x83],
+                "displacement" : 3
+            }
+        ]
+    },
+    {
+        "name"        : "RoundDrawCheck_#2",
+        "library"     : "mod",
+        "type"        : "byte",
+        "memoryType"  : "data",
+        "info"        : "build < 5408",
+        "identifiers" : 
+        [
+            {
+                "os"    : "windows",
+                "mod"   : "cstrike",
+                "value" : [0xC3,0x8B,0x4C,"*","*",0x85,0xC9,0x0F,"*","*","*","*","*",0x85,0xC0,0x0F,"*","*","*","*","*",0x6A],
+                "displacement" : 1
+            },
+            {
+                "os"    : "linux",
+                "mod"   : "cstrike",
+                "value" : [0x90,0x83,"*","*","*",0x0F,"*","*","*","*","*",0x83,"*","*","*",0x0F,"*","*","*","*","*",0x83],
+                "displacement" : 1
+            }
+        ]
+    },
+    {
+        "name"        : "RoundTimeCheck_#1",
+        "library"     : "mod",
+        "type"        : "byte",
+        "memoryType"  : "data",
+        "info"        : "build >= 5408",
+        "identifiers" : 
+        [ 
+            {
+                "os"    : "windows",
+                "mod"   : "cstrike",
+                "value" : [0xF6,"*","*",0x0F,"*","*","*","*","*",0x8B,0x45,"*",0x85,0xC0,0x0F,"*","*","*","*","*",0x8A]
+            }
+        ]
+    },
+    {
+        "name"        : "RoundTimeCheck_#2",
+        "library"     : "mod",
+        "type"        : "byte",
+        "memoryType"  : "data",
+        "info"        : "build < 5408",
+        "identifiers" : 
+        [
+            {
+                "os"    : "windows",
+                "mod"   : "cstrike",
+                "value" : [0x39,0x5D,"*",0x0F,"*","*","*","*","*",0x8A,0x45,"*",0x84,0xC0,0x74,"*",0x68,"*","*","*","*",0x53,0xE8],
+                "displacement" : -9
+            }
+        ]
+    },
+    {
+        "name"        : "TerroristsEscapedCheck_#1",
+        "library"     : "mod",
+        "type"        : "byte",
+        "memoryType"  : "data",
+        "info"        : "build >= 5408",
+        "identifiers" : 
+        [
+            {
+                "os"    : "windows",
+                "mod"   : "cstrike",
+                "value" : [0x25,0x00,"*","*","*",0x0F,"*","*","*","*","*",0x33,0xC0,0x8A,"*","*","*","*","*",0x88]
+            },
+            {
+                "os"    : "linux",
+                "mod"   : "cstrike",
+                "value" : [0x80,"*","*",0x0F,"*","*","*","*","*",0xDD,"*",0xBA,0xC7,"*","*","*",0x85,0xD2,0x74]
+            }
+        ]
+    },
+    {
+        "name"        : "TerroristsEscapedCheck_#2",
+        "library"     : "mod",
+        "type"        : "byte",
+        "memoryType"  : "data",
+        "info"        : "build < 5408",
+        "identifiers" : 
+        [
+            {
+                "os"    : "windows",
+                "mod"   : "cstrike",
+                "value" : [0xF6,"*","*",0x0F,"*","*","*","*","*",0xBA,0xD8,"*","*","*",0x85,0xD2,0x0F,"*","*","*","*","*",0xBF,"*","*","*","*",0x83,0xC9]
+            },
+            {
+                "os"    : "linux",
+                "mod"   : "cstrike",
+                "value" : [0x80,"*","*",0x0F,"*","*","*","*","*",0xDD,"*",0x8D,0x93,"*","*","*","*",0x85,0xD2,0x0F]
+            }
+        ]
+    },
+    {
+        "name"        : "CTsPreventEscapeCheck_#1",
+        "library"     : "mod",
+        "type"        : "byte",
+        "memoryType"  : "data",
+        "info"        : "build >= 5408",
+        "identifiers" : 
+        [
+            {
+                "os"    : "windows",
+                "mod"   : "cstrike",
+                "value" : [0xF6,"*","*",0x0F,"*","*","*","*","*",0x33,0xC0,0x8A,"*","*","*","*","*",0x88,"*","*","*",0x40,0x84,"*",0x75,"*",0x68,"*","*","*","*",0x68,"*","*","*","*",0xE8,"*","*","*","*",0x8B,0xF8,0x83,0xC9,"*",0x33,0xC0,0x8D,0x54,"*","*",0xF2,"*",0xF7,0xD1,0x2B,0xF9,0x8B,0xC1,0x8B]
+            },
+            {
+                "os"    : "linux",
+                "mod"   : "cstrike",
+                "value" : [0x85,"*",0x0F,"*","*","*","*","*",0xD8,"*","*","*",0xDF,0xE0,0x80,"*","*",0xFE,"*",0x80]
+            }
+        ]
+    },
+    {
+        "name"        : "CTsPreventEscapeCheck_#2",
+        "library"     : "mod",
+        "type"        : "byte",
+        "memoryType"  : "data",
+        "info"        : "build < 5408",
+        "identifiers" : 
+        [
+            {
+                "os"    : "windows",
+                "mod"   : "cstrike",
+                "value" : [0x85,0xC0,0x0F,"*","*","*","*","*",0xB9,0xF0,"*","*","*",0x85,0xC9,0x0F]
+            },
+            {
+                "os"    : "linux",
+                "mod"   : "cstrike",
+                "value" : [0x83,"*","*","*",0x0F,"*","*","*","*","*",0xD8,"*","*",0xDF,0xE0,0x80,"*","*",0xFE,"*",0x80]
+            }
+        ]
+    }
+]

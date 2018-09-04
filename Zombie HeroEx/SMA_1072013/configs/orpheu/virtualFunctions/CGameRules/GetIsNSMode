@@ -1,0 +1,22 @@
+{
+	"name" : "GetIsNSMode",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 82
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 84
+		}
+	]
+}	

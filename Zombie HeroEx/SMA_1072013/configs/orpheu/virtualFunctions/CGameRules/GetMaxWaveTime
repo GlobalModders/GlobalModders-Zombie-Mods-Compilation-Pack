@@ -1,0 +1,28 @@
+{
+	"name" : "GetMaxWaveTime",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "int"
+		}
+	],
+	"return" : 
+	{
+		"type" : "float"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 67
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 69
+		}
+	]
+}	

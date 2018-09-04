@@ -1,0 +1,93 @@
+[en]
+GAME_COUNTDOWN = Zombie se xuat hien sau %i giay !!!
+GAME_SCOREHUD1 = [ROUND]^n%i
+GAME_SCOREHUD2 = [Zombie]                    [Human]^n%i                              %i
+
+WIN_HUMAN = Humans Win !!!
+WIN_ZOMBIE = Zombies Win !!!
+
+HUD_EVOL_HUMAN = ATK
+HUD_EVOL_ZOMBIE = Anger Level
+
+MENU_ZOMBIECLASS = Chon Loai Zombie
+MENU_UNLOCKED_CLASS = Ban da mo khoa !t%s!n vinh vien !!!
+MENU_CANT_UNLOCK_CLASS = Ban khong the mo khoa !t%s!n (Ban can !g$%i!n)...
+MENU_CLASS_ACTIVE = Ban da chuyen hoa thanh !t%s!n !!!
+
+HERO_CHOOSEN_MALE = Ban duoc chon lam HERO: ANDREY
+HERO_CHOOSEN_FEMALE = Ban duoc chon lam HEROINE: KATE
+HERO_BECOME_SINGLE = %s da tro thanh Hero !!!
+HERO_BECOME_MULTI = %s da tro thanh Hero !!!
+
+EVOLUTION_ZOMBIE = Ban da tien hoa len Level %i !!!
+EVOLUTION_HUMAN = Suc tan cong tang len %i%% !!!
+
+RESPAWN_ING = Ban se hoi sinh sau %i giay !!!
+RESPAWN_HEADSHOT = Bi ban Headshot -> Khong the hoi sinh...
+
+ZOMBIE_SKILL_HUD_CLASS = Zombie Class
+ZOMBIE_SKILL_HUD_READY = San sang
+ZOMBIE_REGULAR_NAME = Berserker
+ZOMBIE_REGULAR_DESC = Chay Nhanh
+ZOMBIE_REGULAR_CANTBERSERK = Khong the su dung tuyet chieu...
+ZOMBIE_SPEED_NAME = Lusty Rose
+ZOMBIE_SPEED_DESC = Tang Hinh
+ZOMBIE_HEAL_NAME = Demented Doctor
+ZOMBIE_HEAL_DESC = Hoi Mau
+ZOMBIE_DEIMOS_NAME = Deimos
+ZOMBIE_DEIMOS_DESC = Shock
+ZOMBIE_STAMPER_NAME = Stamper
+ZOMBIE_STAMPER_DESC = Stamping Coffin
+ZOMBIE_BANSHEE_NAME = Banshee
+ZOMBIE_BANSHEE_DESC = Pulling & Chaos
+ZOMBIE_BANSHEE_DESC1 = Tha Doi
+ZOMBIE_BANSHEE_DESC2 = Bomb ao anh
+ZOMBIE_BANSHEE_ONGROUND = Ban phai dung tren nen` dat'
+ZOMBIE_BANSHEE_DUCK = Ban khong the choi chieu khi ngoi`
+ZOMBIE_RESIDENT_NAME = Sting Finger
+ZOMBIE_RESIDENT_DESC = Penetrate & Heavenly Jump
+ZOMBIE_RESIDENT_DESC1 = Ban tay sat
+ZOMBIE_RESIDENT_DESC2 = Nhay Cao
+
+SHOP_HUMAN_NAME = [SHOP] Human
+SHOP_ZOMBIE_NAME = [SHOP] Zombie
+SHOP_NOITEM = This shop has no item...
+SHOP_BOUGHT = Mo Khoa
+SHOP_UNLOCKED = Ban da mo k hoa !g%s!n (!g$%i!n)
+SHOP_ALREADY_UNLOCKED = Ban da mo khoa !g%s!n (!g$%i!n) roi
+SHOP_NOMONEY = Khong du tien de mo khoa !g%s!n (Yeu cau: !t$%i!n)
+
+WEAPON_PRIMARY = [Weapon] Primary
+WEAPON_SECONDARY = [Weapon] Secondary
+WEAPON_MELEE = [Weapon] Melee
+
+WEAPON_UNLOCKED = Ban da mo khoa !g%s!n (!g$%i!n)
+WEAPON_NOMONEY = Ban khong du tien de mo khoa !g%s!n (Yeu cau: !t$%i!n)
+
+ITEM_LISTNAME = Items
+ITEM_READY = San Sang
+ITEM_ACTIVATING = Kich Hoat
+ITEM_DISABLED = Vo Hieu Hoa
+ITEM_CANTUSE = Khong the su dung item luc nay
+
+ITEM_WINGBOOT_NAME = Heavenly Boot
+ITEM_WINGBOOT_DESC = Nhay cao
+ITEM_X2GRENADE_NAME = x2 Grenade
+ITEM_X2GRENADE_DESC = +1 Grenade
+ITEM_X13DMG_NAME = x1.3 Damage
+ITEM_X13DMG_DESC = Tang luc tan cong
+ITEM_SPRINT_NAME = Dead Run
+ITEM_SPRINT_DESC = Chay nhanh
+ITEM_DEADLYSHOT_NAME = Deadly Shot
+ITEM_DEADLYSHOT_DESC = Aimbot
+ITEM_BLOODYBLADE_NAME = Bloody Blade
+ITEM_BLOODYBLADE_DESC = x2 uy luc cua vu khi can chien
+ITEM_NIGHTVISION_NAME = NightVision
+ITEM_NIGHTVISION_DESC = Kinh Nhin Dem
+
+ITEM_INCREASEHP_NAME = Increase HP
+ITEM_INCREASEHP_DESC = Increase your health
+ITEM_ZOMBIEGRENADE_NAME = Zombie Grenade
+ITEM_ZOMBIEGRENADE_DESC = Knockback Grenade
+ITEM_IMRESPAWN_NAME = Immediately Respawn
+ITEM_IMRESPAWN_DESC = Respawn immediately after death

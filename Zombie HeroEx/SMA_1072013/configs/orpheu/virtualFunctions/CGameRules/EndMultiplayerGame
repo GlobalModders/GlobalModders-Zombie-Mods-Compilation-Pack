@@ -1,0 +1,63 @@
+{
+	"name" : "EndMultiplayerGame",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 59
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 59
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 61
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 60
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 62
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 59
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 61
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 59
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 61
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 58
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 60
+		}
+	]
+}	

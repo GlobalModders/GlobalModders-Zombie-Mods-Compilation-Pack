@@ -1,0 +1,76 @@
+{
+	"name" : "PlayFootstepSounds",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		},
+		{
+			"type" : "float"
+		}
+	],
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 57
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 58
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 59
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 57
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 59
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 57
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 59
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 56
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 58
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 52
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 54
+		}
+	]
+}	

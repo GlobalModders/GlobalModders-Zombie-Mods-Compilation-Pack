@@ -1,0 +1,32 @@
+{
+    "name" : "EmitSound",
+    "library" : "engine",
+    "arguments" :
+    [
+        {
+            "type" : "edict_s *"
+        },
+        {
+            "type" : "int"
+        },
+        {
+            "type" : "char *"
+        },
+        {
+            "type" : "float"
+        },
+        {
+            "type" : "float"
+        },
+        {
+            "type" : "int"
+        },
+        {
+            "type" : "int"
+        }
+    ],
+    "return" :
+    {
+        "type" : "int"
+    }
+}

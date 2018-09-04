@@ -1,0 +1,34 @@
+{
+	"name" : "CanEntityDoDamageTo",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBaseEntity *"
+		},
+		{
+			"type" : "CBaseEntity *"
+		},
+		{
+			"type" : "Vector &"
+		}
+	],
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 73
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 75
+		}
+	]
+}	

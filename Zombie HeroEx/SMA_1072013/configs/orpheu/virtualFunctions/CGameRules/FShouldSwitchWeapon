@@ -1,0 +1,87 @@
+{
+	"name" : "FShouldSwitchWeapon",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		},
+		{
+			"type" : "CBasePlayerItem *"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 4
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 4
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 6
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 5
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 7
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 4
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 6
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 4
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 6
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 3
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 5
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 4
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 6
+		}
+		
+	]
+}	

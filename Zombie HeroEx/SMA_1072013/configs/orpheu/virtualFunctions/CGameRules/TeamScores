@@ -1,0 +1,28 @@
+{
+	"name" : "TeamScores",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "int"
+		}
+	],
+	"return" : 
+	{
+		"type" : "int"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 70
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 72
+		}
+	]
+}	

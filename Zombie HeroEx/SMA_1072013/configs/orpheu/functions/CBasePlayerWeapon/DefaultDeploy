@@ -1,0 +1,40 @@
+{
+    "name"      : "DefaultDeploy",
+    "class"     : "CBasePlayerWeapon",
+    "library"   : "mod",
+    "arguments" : 
+    [
+        {
+            "type" : "char *" 
+        },
+        {
+            "type" : "char *" 
+        },
+        {
+            "type" : "int" 
+        },
+        {
+            "type" : "char *" 
+        },
+        {
+            "type" : "int" 
+        }
+    ],
+    "return" :
+    {
+        "type" : "bool"
+    },
+    "identifiers" : 
+    [
+        {
+            "os"    : "windows",
+            "mod"   : "cstrike",
+            "value" : [0x53,0x8B,0xD9,0x8B,0x03,0xFF,0x90,"*","*","*","*",0x85,0xC0,0x75,"*",0x5B,0xC2,"*","*",0x8B,0x8B,"*","*","*","*",0x56,0x57,0xE8]
+        },
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "DefaultDeploy__17CBasePlayerWeaponPcT1iT1i"
+        } 
+    ]
+}  

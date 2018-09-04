@@ -1,0 +1,18 @@
+{
+	"name" : "GiveC4",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 67
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 69
+		}
+	]
+}	

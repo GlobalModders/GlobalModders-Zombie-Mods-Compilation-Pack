@@ -1,0 +1,34 @@
+{
+	"name" : "GetIsClientAuthorizedToPlay",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "edict_s *"
+		},
+		{
+			"type" : "bool"
+		},
+		{
+			"type" : "bool"
+		}
+	],
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 63
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 65
+		}
+	]
+}	

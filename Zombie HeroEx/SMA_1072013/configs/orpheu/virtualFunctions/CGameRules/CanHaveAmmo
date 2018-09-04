@@ -1,0 +1,90 @@
+{
+	"name" : "CanHaveAmmo",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		},
+		{
+			"type" : "char *"
+		},
+		{
+			"type" : "int"
+		}
+		
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 40
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 41
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 43
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 41
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 43
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 40
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 42
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 40
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 42
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 39
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 41
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 40
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 42
+		}
+	]
+}	

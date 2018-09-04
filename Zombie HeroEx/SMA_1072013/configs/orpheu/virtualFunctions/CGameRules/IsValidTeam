@@ -1,0 +1,73 @@
+{
+	"name" : "IsValidTeam",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "char *"
+		}
+	],
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 53
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 54
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 56
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 54
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 56
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 53
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 55
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 53
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 55
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 52
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 54
+		}
+	]
+}	

@@ -1,0 +1,28 @@
+{
+	"name" : "SetMapChangeFromTime",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "int"
+		}
+	],
+	"return" : 
+	{
+		"type" : "int"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 121
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 123
+		}
+	]
+}	

@@ -1,0 +1,28 @@
+{
+	"name" : "SetRoundReset",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "short"
+		}
+	],
+	"return" : 
+	{
+		"type" : "short"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 118
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 120
+		}
+	]
+}	

@@ -1,0 +1,86 @@
+{
+	"name" : "ShouldAutoAim",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		},
+		{
+			"type" : "edict_s *"
+		}
+	],
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 17
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 17
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 19
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 17
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 19
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 17
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 19
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 17
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 19
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 16
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 18
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 17
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 19
+		}
+	]
+}	

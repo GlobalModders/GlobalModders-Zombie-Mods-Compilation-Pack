@@ -1,0 +1,93 @@
+[en]
+GAME_COUNTDOWN = Zombies will arrive in %i second(s) !!!
+GAME_SCOREHUD1 = [ROUND]^n%i
+GAME_SCOREHUD2 = [Zombie]                    [Human]^n%i                              %i
+
+WIN_HUMAN = Humans Win !!!
+WIN_ZOMBIE = Zombies Win !!!
+
+HUD_EVOL_HUMAN = ATK
+HUD_EVOL_ZOMBIE = Anger Level
+
+MENU_ZOMBIECLASS = Zombie Class Selection
+MENU_UNLOCKED_CLASS = You've unlocked !t%s!n permanently !!!
+MENU_CANT_UNLOCK_CLASS = You can't unlock !t%s!n (You need !g$%i!n)...
+MENU_CLASS_ACTIVE = You've transformed to !t%s!n !!!
+
+HERO_CHOOSEN_MALE = You've been selected as HERO: ANDREY
+HERO_CHOOSEN_FEMALE = You've been selected as HEROINE: KATE
+HERO_BECOME_SINGLE = %s has become a Hero !!!
+HERO_BECOME_MULTI = %s have become Heroes !!!
+
+EVOLUTION_ZOMBIE = You've evolved to level %i !!!
+EVOLUTION_HUMAN = Attack Power Up to Lv %i%% !!!
+
+RESPAWN_ING = You will be revived in %i second(s) !!!
+RESPAWN_HEADSHOT = You've got a headshot -> You can't be revived...
+
+ZOMBIE_SKILL_HUD_CLASS = Zombie Class
+ZOMBIE_SKILL_HUD_READY = Ready
+ZOMBIE_REGULAR_NAME = Berserker
+ZOMBIE_REGULAR_DESC = Berserk
+ZOMBIE_REGULAR_CANTBERSERK = You can't do Berserk now...
+ZOMBIE_SPEED_NAME = Lusty Rose
+ZOMBIE_SPEED_DESC = Invisible
+ZOMBIE_HEAL_NAME = Demented Doctor
+ZOMBIE_HEAL_DESC = Heal
+ZOMBIE_DEIMOS_NAME = Deimos
+ZOMBIE_DEIMOS_DESC = Shock
+ZOMBIE_STAMPER_NAME = Stamper
+ZOMBIE_STAMPER_DESC = Stamping Coffin
+ZOMBIE_BANSHEE_NAME = Banshee
+ZOMBIE_BANSHEE_DESC = Pulling & Chaos
+ZOMBIE_BANSHEE_DESC1 = Pulling
+ZOMBIE_BANSHEE_DESC2 = Chaos
+ZOMBIE_BANSHEE_ONGROUND = You need to stand on the ground
+ZOMBIE_BANSHEE_DUCK = Dont duck if you want to use skill
+ZOMBIE_RESIDENT_NAME = Sting Finger
+ZOMBIE_RESIDENT_DESC = Penetrate & Heavenly Jump
+ZOMBIE_RESIDENT_DESC1 = Penetrate
+ZOMBIE_RESIDENT_DESC2 = Heavenly Jump
+
+SHOP_HUMAN_NAME = [SHOP] Human
+SHOP_ZOMBIE_NAME = [SHOP] Zombie
+SHOP_NOITEM = This shop has no item...
+SHOP_BOUGHT = Unlocked
+SHOP_UNLOCKED = You've unlocked !g%s!n (!g$%i!n)
+SHOP_ALREADY_UNLOCKED = You've already unlocked !g%s!n (!g$%i!n)
+SHOP_NOMONEY = Not enough money to unlock !g%s!n (Required: !t$%i!n)
+
+WEAPON_PRIMARY = [Weapon] Primary
+WEAPON_SECONDARY = [Weapon] Secondary
+WEAPON_MELEE = [Weapon] Melee
+
+WEAPON_UNLOCKED = You've unlocked !g%s!n (!g$%i!n)
+WEAPON_NOMONEY = Not enough money to unlock !g%s!n (Required: !t$%i!n)
+
+ITEM_LISTNAME = Items
+ITEM_READY = Ready
+ITEM_ACTIVATING = Activating
+ITEM_DISABLED = Disabled
+ITEM_CANTUSE = You can't use this item at this time
+
+ITEM_WINGBOOT_NAME = Heavenly Boot
+ITEM_WINGBOOT_DESC = Jump higher
+ITEM_X2GRENADE_NAME = x2 Grenade
+ITEM_X2GRENADE_DESC = +1 Grenade
+ITEM_X13DMG_NAME = x1.3 Damage
+ITEM_X13DMG_DESC = Increase Attack Damage
+ITEM_SPRINT_NAME = Dead Run
+ITEM_SPRINT_DESC = Run like a dead man
+ITEM_DEADLYSHOT_NAME = Deadly Shot
+ITEM_DEADLYSHOT_DESC = Deal Headshot Damage
+ITEM_BLOODYBLADE_NAME = Bloody Blade
+ITEM_BLOODYBLADE_DESC = x2 Melee Damage
+ITEM_NIGHTVISION_NAME = NightVision
+ITEM_NIGHTVISION_DESC = NightVision
+
+ITEM_INCREASEHP_NAME = Increase HP
+ITEM_INCREASEHP_DESC = Increase your health
+ITEM_ZOMBIEGRENADE_NAME = Zombie Grenade
+ITEM_ZOMBIEGRENADE_DESC = Knockback Grenade
+ITEM_IMRESPAWN_NAME = Immediately Respawn
+ITEM_IMRESPAWN_DESC = Respawn immediately after death

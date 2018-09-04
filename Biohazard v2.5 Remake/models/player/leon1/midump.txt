@@ -1,0 +1,1206 @@
+ID Tag: IDST
+Version: 10
+Name: "urban.mdl"
+Length: 1788240
+
+Eye Position: 0.000000 0.000000 0.000000
+Min: 0.000000 0.000000 0.000000
+Max: 0.000000 0.000000 0.000000
+Bounding Box Min: 0.000000 0.000000 0.000000
+Bounding Box Max: 0.000000 0.000000 0.000000
+Flags: 0
+
+Number of Bones: 35
+
+Bone 1 Name: "Bip01"
+Bone 1 Parent: -1
+Bone 1 Flags: 0
+Bone 1 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 1 Value: 0.233849 -2.251615 38.192150 0.000000 0.000000 -1.570795
+Bone 1 Scale: 0.003906 0.003906 0.003906 0.000096 0.000050 0.000095
+
+Bone 2 Name: "Bip01 Pelvis"
+Bone 2 Parent: 0
+Bone 2 Flags: 0
+Bone 2 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 2 Value: -2.276860 0.000003 -1.238186 -1.570795 -1.570796 0.000000
+Bone 2 Scale: 0.003906 0.003906 0.003906 0.000048 0.000012 0.000048
+
+Bone 3 Name: "Bip01 Spine"
+Bone 3 Parent: 1
+Bone 3 Flags: 0
+Bone 3 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 3 Value: 1.797145 0.711796 -0.000002 -0.000004 -0.000001 0.000739
+Bone 3 Scale: 0.003906 0.003906 0.003906 0.000056 0.000019 0.000022
+
+Bone 4 Name: "Bip01 Spine1"
+Bone 4 Parent: 2
+Bone 4 Flags: 0
+Bone 4 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 4 Value: 4.118605 -0.003279 0.000000 0.000000 0.000000 0.000035
+Bone 4 Scale: 0.003906 0.003906 0.003906 0.000039 0.000012 0.000024
+
+Bone 5 Name: "Bip01 Spine2"
+Bone 5 Parent: 3
+Bone 5 Flags: 0
+Bone 5 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 5 Value: 4.118601 -0.003280 0.000000 0.000000 0.000000 0.000049
+Bone 5 Scale: 0.003906 0.003906 0.003906 0.000026 0.000020 0.000017
+
+Bone 6 Name: "Bip01 Spine3"
+Bone 6 Parent: 4
+Bone 6 Flags: 0
+Bone 6 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 6 Value: 4.118600 -0.003280 0.000000 0.000000 0.000000 -0.000009
+Bone 6 Scale: 0.003906 0.003906 0.003906 0.000032 0.000021 0.000026
+
+Bone 7 Name: "Bip01 Neck"
+Bone 7 Parent: 5
+Bone 7 Flags: 0
+Bone 7 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 7 Value: 4.118531 -0.003538 0.000000 0.000000 0.000000 -0.019437
+Bone 7 Scale: 0.003906 0.003906 0.003906 0.000044 0.000030 0.000030
+
+Bone 8 Name: "Bip01 Head"
+Bone 8 Parent: 6
+Bone 8 Flags: 0
+Bone 8 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 8 Value: 4.443601 0.000000 0.000000 0.000000 -0.000001 0.201740
+Bone 8 Scale: 0.003906 0.003906 0.003906 0.000061 0.000040 0.000048
+
+Bone 9 Name: "Bip01 L Clavicle"
+Bone 9 Parent: 6
+Bone 9 Flags: 0
+Bone 9 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 9 Value: 0.000004 0.003534 1.732721 -0.000040 -1.501696 -3.122911
+Bone 9 Scale: 0.003906 0.003906 0.003906 0.000096 0.000052 0.000096
+
+Bone 10 Name: "Bip01 L UpperArm"
+Bone 10 Parent: 8
+Bone 10 Flags: 0
+Bone 10 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 10 Value: 5.457074 0.000000 0.000000 0.024408 -0.047635 0.030300
+Bone 10 Scale: 0.003906 0.003906 0.003906 0.000070 0.000095 0.000072
+
+Bone 11 Name: "Bip01 L Forearm"
+Bone 11 Parent: 9
+Bone 11 Flags: 0
+Bone 11 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 11 Value: 10.242682 0.000000 0.000001 0.000000 0.000000 -0.025467
+Bone 11 Scale: 0.003906 0.003906 0.003906 0.000012 0.000012 0.000087
+
+Bone 12 Name: "Bip01 L Hand"
+Bone 12 Parent: 10
+Bone 12 Flags: 0
+Bone 12 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 12 Value: 10.938038 0.000000 0.000002 -1.570891 -0.219747 -0.034317
+Bone 12 Scale: 0.003906 0.003906 0.003906 0.000095 0.000094 0.000047
+
+Bone 13 Name: "Bip01 L Finger0"
+Bone 13 Parent: 11
+Bone 13 Flags: 0
+Bone 13 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 13 Value: 0.728678 0.023429 -1.008292 1.645427 0.619461 0.471432
+Bone 13 Scale: 0.003906 0.003906 0.003906 0.000051 0.000038 0.000051
+
+Bone 14 Name: "Bip01 L Finger01"
+Bone 14 Parent: 12
+Bone 14 Flags: 0
+Bone 14 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 14 Value: 2.136496 0.000000 0.000004 0.000000 0.000000 0.165806
+Bone 14 Scale: 0.003906 0.003906 0.003906 0.000012 0.000012 0.000042
+
+Bone 15 Name: "Bip01 L Finger1"
+Bone 15 Parent: 11
+Bone 15 Flags: 0
+Bone 15 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 15 Value: 3.115505 -0.886042 -0.021431 -0.000782 0.000152 0.191986
+Bone 15 Scale: 0.003906 0.003906 0.003906 0.000027 0.000023 0.000031
+
+Bone 16 Name: "Bip01 L Finger11"
+Bone 16 Parent: 14
+Bone 16 Flags: 0
+Bone 16 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 16 Value: 2.011150 -0.000001 0.000000 0.000000 0.000000 0.345407
+Bone 16 Scale: 0.003906 0.003906 0.003906 0.000012 0.000012 0.000049
+
+Bone 17 Name: "-- L Elbow"
+Bone 17 Parent: 9
+Bone 17 Flags: 0
+Bone 17 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 17 Value: 10.510129 0.000000 -0.000001 0.000000 0.000000 -1.583529
+Bone 17 Scale: 0.003906 0.003906 0.003906 0.000012 0.000012 0.000044
+
+Bone 18 Name: "Bip01 R Clavicle"
+Bone 18 Parent: 6
+Bone 18 Flags: 0
+Bone 18 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 18 Value: 0.000004 0.003543 -1.732721 -0.000040 1.501696 -3.122992
+Bone 18 Scale: 0.003906 0.003906 0.003906 0.000096 0.000042 0.000096
+
+Bone 19 Name: "Bip01 R UpperArm"
+Bone 19 Parent: 17
+Bone 19 Flags: 0
+Bone 19 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 19 Value: 5.457074 0.000000 0.000000 -0.024408 0.047635 0.030300
+Bone 19 Scale: 0.003906 0.003906 0.003906 0.000088 0.000091 0.000068
+
+Bone 20 Name: "Bip01 R Forearm"
+Bone 20 Parent: 18
+Bone 20 Flags: 0
+Bone 20 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 20 Value: 10.242681 0.000000 -0.000001 0.000000 0.000000 -0.025467
+Bone 20 Scale: 0.003906 0.003906 0.003906 0.000012 0.000012 0.000083
+
+Bone 21 Name: "Bip01 R Hand"
+Bone 21 Parent: 19
+Bone 21 Flags: 0
+Bone 21 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 21 Value: 10.938037 0.000000 -0.000002 1.570891 0.219747 -0.034317
+Bone 21 Scale: 0.003906 0.003906 0.003906 0.000095 0.000090 0.000048
+
+Bone 22 Name: "Bip01 R Finger0"
+Bone 22 Parent: 20
+Bone 22 Flags: 0
+Bone 22 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 22 Value: 0.728680 0.023430 1.008292 -1.645427 -0.619461 0.471432
+Bone 22 Scale: 0.003906 0.003906 0.003906 0.000047 0.000059 0.000061
+
+Bone 23 Name: "Bip01 R Finger01"
+Bone 23 Parent: 21
+Bone 23 Flags: 0
+Bone 23 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 23 Value: 2.136496 0.000000 -0.000005 0.000000 0.000000 0.165806
+Bone 23 Scale: 0.003906 0.003906 0.003906 0.000012 0.000012 0.000035
+
+Bone 24 Name: "Bip01 R Finger1"
+Bone 24 Parent: 20
+Bone 24 Flags: 0
+Bone 24 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 24 Value: 3.115504 -0.886042 0.021431 0.000782 -0.000152 0.191986
+Bone 24 Scale: 0.003906 0.003906 0.003906 0.000022 0.000016 0.000028
+
+Bone 25 Name: "Bip01 R Finger11"
+Bone 25 Parent: 23
+Bone 25 Flags: 0
+Bone 25 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 25 Value: 2.011154 0.000000 0.000000 0.000000 0.000000 0.345407
+Bone 25 Scale: 0.003906 0.003906 0.003906 0.000012 0.000012 0.000054
+
+Bone 26 Name: "-- R Elbow"
+Bone 26 Parent: 18
+Bone 26 Flags: 0
+Bone 26 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 26 Value: 10.510130 0.000000 0.000000 0.000000 0.000000 -1.583529
+Bone 26 Scale: 0.003906 0.003906 0.003906 0.000012 0.000012 0.000041
+
+Bone 27 Name: "Bip01 L Thigh"
+Bone 27 Parent: 1
+Bone 27 Flags: 0
+Bone 27 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 27 Value: -0.000005 0.000007 3.619081 -3.130474 -0.130578 3.055158
+Bone 27 Scale: 0.003906 0.003906 0.003906 0.000096 0.000096 0.000096
+
+Bone 28 Name: "Bip01 L Calf"
+Bone 28 Parent: 26
+Bone 28 Flags: 0
+Bone 28 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 28 Value: 16.573921 0.000000 0.000000 0.000000 0.000000 -0.162458
+Bone 28 Scale: 0.003906 0.003906 0.003906 0.000096 0.000012 0.000072
+
+Bone 29 Name: "Bip01 L Foot"
+Bone 29 Parent: 27
+Bone 29 Flags: 0
+Bone 29 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 29 Value: 15.128182 0.000000 0.000001 0.000166 -0.131049 0.076739
+Bone 29 Scale: 0.003906 0.003906 0.003906 0.000028 0.000019 0.000073
+
+Bone 30 Name: "Bip01 L Toe0"
+Bone 30 Parent: 28
+Bone 30 Flags: 0
+Bone 30 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 30 Value: 5.758665 4.244730 0.000000 0.000000 0.000000 1.570796
+Bone 30 Scale: 0.003906 0.003906 0.003906 0.000012 0.000047 0.000096
+
+Bone 31 Name: "Bip01 R Thigh"
+Bone 31 Parent: 1
+Bone 31 Flags: 0
+Bone 31 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 31 Value: 0.000005 -0.000003 -3.619081 3.130477 0.130581 3.055158
+Bone 31 Scale: 0.003906 0.003906 0.003906 0.000096 0.000096 0.000096
+
+Bone 32 Name: "Bip01 R Calf"
+Bone 32 Parent: 30
+Bone 32 Flags: 0
+Bone 32 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 32 Value: 16.573921 0.000000 0.000000 0.000000 0.000000 -0.162458
+Bone 32 Scale: 0.003906 0.003906 0.003906 0.000096 0.000012 0.000075
+
+Bone 33 Name: "Bip01 R Foot"
+Bone 33 Parent: 31
+Bone 33 Flags: 0
+Bone 33 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 33 Value: 15.128182 0.000000 -0.000001 -0.000165 0.131049 0.076739
+Bone 33 Scale: 0.003906 0.003906 0.003906 0.000032 0.000020 0.000067
+
+Bone 34 Name: "Bip01 R Toe0"
+Bone 34 Parent: 32
+Bone 34 Flags: 0
+Bone 34 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 34 Value: 5.758665 4.244730 0.000000 0.000000 0.000000 1.570796
+Bone 34 Scale: 0.003906 0.003906 0.003906 0.000012 0.000049 0.000096
+
+Bone 35 Name: "Bomb"
+Bone 35 Parent: 4
+Bone 35 Flags: 0
+Bone 35 Bonecontroller: -1 -1 -1 -1 -1 -1
+Bone 35 Value: 1.558341 -6.903261 -0.233856 -0.095171 1.570796 0.000000
+Bone 35 Scale: 0.003906 0.003906 0.003906 0.000012 0.000012 0.000012
+
+Number of Bone Controllers: 0
+
+Number of Hitboxes: 21
+
+Hitbox 1 Bone: 1
+Hitbox 1 Group: 3
+Hitbox 1 Bounding Box Min: -4.690000 -4.440000 -6.750000
+Hitbox 1 Bounding Box Max: 4.000000 5.560000 6.750000
+
+Hitbox 2 Bone: 26
+Hitbox 2 Group: 6
+Hitbox 2 Bounding Box Min: 2.660000 -3.690000 -3.090000
+Hitbox 2 Bounding Box Max: 18.160000 4.880000 3.310000
+
+Hitbox 3 Bone: 27
+Hitbox 3 Group: 6
+Hitbox 3 Bounding Box Min: 0.380000 -3.970000 -2.840000
+Hitbox 3 Bounding Box Max: 17.600000 4.000000 2.940000
+
+Hitbox 4 Bone: 28
+Hitbox 4 Group: 6
+Hitbox 4 Bounding Box Min: 0.850000 -3.240000 -2.640000
+Hitbox 4 Bounding Box Max: 5.730000 8.530000 3.170000
+
+Hitbox 5 Bone: 30
+Hitbox 5 Group: 7
+Hitbox 5 Bounding Box Min: 2.470000 -3.690000 -3.160000
+Hitbox 5 Bounding Box Max: 18.129999 4.880000 3.380000
+
+Hitbox 6 Bone: 31
+Hitbox 6 Group: 7
+Hitbox 6 Bounding Box Min: 0.310000 -3.970000 -2.840000
+Hitbox 6 Bounding Box Max: 17.600000 3.940000 2.970000
+
+Hitbox 7 Bone: 32
+Hitbox 7 Group: 7
+Hitbox 7 Bounding Box Min: 0.850000 -3.240000 -2.640000
+Hitbox 7 Bounding Box Max: 5.730000 8.530000 3.170000
+
+Hitbox 8 Bone: 3
+Hitbox 8 Group: 3
+Hitbox 8 Bounding Box Min: -3.250000 -5.500000 -5.500000
+Hitbox 8 Bounding Box Max: 4.830000 5.500000 5.500000
+
+Hitbox 9 Bone: 4
+Hitbox 9 Group: 2
+Hitbox 9 Bounding Box Min: -0.060000 -5.530000 -7.590000
+Hitbox 9 Bounding Box Max: 8.000000 7.000000 7.590000
+
+Hitbox 10 Bone: 5
+Hitbox 10 Group: 2
+Hitbox 10 Bounding Box Min: -2.250000 -6.810000 -6.310000
+Hitbox 10 Bounding Box Max: 6.500000 5.090000 6.310000
+
+Hitbox 11 Bone: 6
+Hitbox 11 Group: 2
+Hitbox 11 Bounding Box Min: -3.110000 -1.500000 -3.000000
+Hitbox 11 Bounding Box Max: 2.050000 3.500000 3.000000
+
+Hitbox 12 Bone: 7
+Hitbox 12 Group: 1
+Hitbox 12 Bounding Box Min: -0.330000 -4.500000 -2.500000
+Hitbox 12 Bounding Box Max: 8.000000 4.500000 2.500000
+
+Hitbox 13 Bone: 8
+Hitbox 13 Group: 4
+Hitbox 13 Bounding Box Min: 0.940000 -2.880000 -4.130000
+Hitbox 13 Bounding Box Max: 5.440000 4.280000 3.500000
+
+Hitbox 14 Bone: 9
+Hitbox 14 Group: 4
+Hitbox 14 Bounding Box Min: -2.160000 -2.340000 -2.560000
+Hitbox 14 Bounding Box Max: 11.560000 3.410000 2.380000
+
+Hitbox 15 Bone: 10
+Hitbox 15 Group: 4
+Hitbox 15 Bounding Box Min: 0.590000 -1.810000 -2.190000
+Hitbox 15 Bounding Box Max: 10.750000 2.840000 2.410000
+
+Hitbox 16 Bone: 11
+Hitbox 16 Group: 4
+Hitbox 16 Bounding Box Min: -0.132201 -1.903020 -2.238530
+Hitbox 16 Bounding Box Max: 4.862900 2.078240 2.369790
+
+Hitbox 17 Bone: 17
+Hitbox 17 Group: 5
+Hitbox 17 Bounding Box Min: 1.380000 -2.840000 -3.560000
+Hitbox 17 Bounding Box Max: 5.690000 4.310000 4.310000
+
+Hitbox 18 Bone: 18
+Hitbox 18 Group: 5
+Hitbox 18 Bounding Box Min: -1.880000 -2.470000 -2.160000
+Hitbox 18 Bounding Box Max: 11.810000 3.280000 2.810000
+
+Hitbox 19 Bone: 19
+Hitbox 19 Group: 5
+Hitbox 19 Bounding Box Min: 0.440000 -1.970000 -2.340000
+Hitbox 19 Bounding Box Max: 10.590000 2.720000 2.220000
+
+Hitbox 20 Bone: 20
+Hitbox 20 Group: 5
+Hitbox 20 Bounding Box Min: -0.132201 -1.903020 -2.238530
+Hitbox 20 Bounding Box Max: 4.862900 2.078240 2.369790
+
+Hitbox 21 Bone: 11
+Hitbox 21 Group: 8
+Hitbox 21 Bounding Box Min: -16.100000 -6.500000 -19.000000
+Hitbox 21 Bounding Box Max: 10.600000 1.500000 33.000000
+
+Number of Sequences: 111
+
+Sequence 1 Label: "dummy"
+Sequence 1 Frames per sec: 24.000000
+Sequence 1 Flags: 1
+Sequence 1 Events: 0
+
+Sequence 2 Label: "idle1"
+Sequence 2 Frames per sec: 15.000000
+Sequence 2 Flags: 1
+Sequence 2 Events: 0
+
+Sequence 3 Label: "crouch_idle"
+Sequence 3 Frames per sec: 10.000000
+Sequence 3 Flags: 1
+Sequence 3 Events: 0
+
+Sequence 4 Label: "walk"
+Sequence 4 Frames per sec: 30.000000
+Sequence 4 Flags: 1
+Sequence 4 Events: 0
+
+Sequence 5 Label: "run"
+Sequence 5 Frames per sec: 60.000000
+Sequence 5 Flags: 1
+Sequence 5 Events: 0
+
+Sequence 6 Label: "crouchrun"
+Sequence 6 Frames per sec: 30.000000
+Sequence 6 Flags: 1
+Sequence 6 Events: 0
+
+Sequence 7 Label: "jump"
+Sequence 7 Frames per sec: 36.000000
+Sequence 7 Flags: 0
+Sequence 7 Events: 0
+
+Sequence 8 Label: "longjump"
+Sequence 8 Frames per sec: 36.000000
+Sequence 8 Flags: 0
+Sequence 8 Events: 0
+
+Sequence 9 Label: "swim"
+Sequence 9 Frames per sec: 30.000000
+Sequence 9 Flags: 1
+Sequence 9 Events: 0
+
+Sequence 10 Label: "treadwater"
+Sequence 10 Frames per sec: 24.000000
+Sequence 10 Flags: 1
+Sequence 10 Events: 0
+
+Sequence 11 Label: "crouch_aim_carbine"
+Sequence 11 Frames per sec: 30.000000
+Sequence 11 Flags: 1
+Sequence 11 Events: 0
+
+Sequence 12 Label: "crouch_shoot_carbine"
+Sequence 12 Frames per sec: 15.000000
+Sequence 12 Flags: 0
+Sequence 12 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 40
+	Event 1 Type: 0
+
+Sequence 13 Label: "crouch_reload_carbine"
+Sequence 13 Frames per sec: 30.000000
+Sequence 13 Flags: 0
+Sequence 13 Events: 0
+
+Sequence 14 Label: "ref_aim_carbine"
+Sequence 14 Frames per sec: 30.000000
+Sequence 14 Flags: 1
+Sequence 14 Events: 0
+
+Sequence 15 Label: "ref_shoot_carbine"
+Sequence 15 Frames per sec: 15.000000
+Sequence 15 Flags: 0
+Sequence 15 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 40
+	Event 1 Type: 0
+
+Sequence 16 Label: "ref_reload_carbine"
+Sequence 16 Frames per sec: 30.000000
+Sequence 16 Flags: 0
+Sequence 16 Events: 0
+
+Sequence 17 Label: "crouch_aim_onehanded"
+Sequence 17 Frames per sec: 30.000000
+Sequence 17 Flags: 1
+Sequence 17 Events: 0
+
+Sequence 18 Label: "crouch_shoot_onehanded"
+Sequence 18 Frames per sec: 15.000000
+Sequence 18 Flags: 0
+Sequence 18 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 10
+	Event 1 Type: 0
+
+Sequence 19 Label: "crouch_reload_onehanded"
+Sequence 19 Frames per sec: 30.000000
+Sequence 19 Flags: 0
+Sequence 19 Events: 0
+
+Sequence 20 Label: "ref_aim_onehanded"
+Sequence 20 Frames per sec: 30.000000
+Sequence 20 Flags: 1
+Sequence 20 Events: 0
+
+Sequence 21 Label: "ref_shoot_onehanded"
+Sequence 21 Frames per sec: 15.000000
+Sequence 21 Flags: 0
+Sequence 21 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 10
+	Event 1 Type: 0
+
+Sequence 22 Label: "ref_reload_onehanded"
+Sequence 22 Frames per sec: 30.000000
+Sequence 22 Flags: 0
+Sequence 22 Events: 0
+
+Sequence 23 Label: "crouch_aim_dualpistols_1"
+Sequence 23 Frames per sec: 10.000000
+Sequence 23 Flags: 1
+Sequence 23 Events: 0
+
+Sequence 24 Label: "crouch_shoot_dualpistols_1"
+Sequence 24 Frames per sec: 30.000000
+Sequence 24 Flags: 0
+Sequence 24 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5011
+	Event 1 Options: 10
+	Event 1 Type: 0
+
+Sequence 25 Label: "crouch_shoot2_dualpistols_1"
+Sequence 25 Frames per sec: 30.000000
+Sequence 25 Flags: 0
+Sequence 25 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 10
+	Event 1 Type: 0
+
+Sequence 26 Label: "crouch_reload_dualpistols_1"
+Sequence 26 Frames per sec: 30.000000
+Sequence 26 Flags: 0
+Sequence 26 Events: 0
+
+Sequence 27 Label: "ref_aim_dualpistols_1"
+Sequence 27 Frames per sec: 10.000000
+Sequence 27 Flags: 1
+Sequence 27 Events: 0
+
+Sequence 28 Label: "ref_shoot_dualpistols_1"
+Sequence 28 Frames per sec: 30.000000
+Sequence 28 Flags: 0
+Sequence 28 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5011
+	Event 1 Options: 10
+	Event 1 Type: 0
+
+Sequence 29 Label: "ref_shoot2_dualpistols_1"
+Sequence 29 Frames per sec: 30.000000
+Sequence 29 Flags: 0
+Sequence 29 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 10
+	Event 1 Type: 0
+
+Sequence 30 Label: "ref_reload_dualpistols_1"
+Sequence 30 Frames per sec: 30.000000
+Sequence 30 Flags: 0
+Sequence 30 Events: 0
+
+Sequence 31 Label: "crouch_aim_rifle"
+Sequence 31 Frames per sec: 30.000000
+Sequence 31 Flags: 1
+Sequence 31 Events: 0
+
+Sequence 32 Label: "crouch_shoot_rifle"
+Sequence 32 Frames per sec: 20.000000
+Sequence 32 Flags: 0
+Sequence 32 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 30
+	Event 1 Type: 0
+
+Sequence 33 Label: "crouch_reload_rifle"
+Sequence 33 Frames per sec: 30.000000
+Sequence 33 Flags: 0
+Sequence 33 Events: 0
+
+Sequence 34 Label: "ref_aim_rifle"
+Sequence 34 Frames per sec: 30.000000
+Sequence 34 Flags: 1
+Sequence 34 Events: 0
+
+Sequence 35 Label: "ref_shoot_rifle"
+Sequence 35 Frames per sec: 20.000000
+Sequence 35 Flags: 0
+Sequence 35 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 30
+	Event 1 Type: 0
+
+Sequence 36 Label: "ref_reload_rifle"
+Sequence 36 Frames per sec: 30.000000
+Sequence 36 Flags: 0
+Sequence 36 Events: 0
+
+Sequence 37 Label: "crouch_aim_mp5"
+Sequence 37 Frames per sec: 30.000000
+Sequence 37 Flags: 1
+Sequence 37 Events: 0
+
+Sequence 38 Label: "crouch_shoot_mp5"
+Sequence 38 Frames per sec: 15.000000
+Sequence 38 Flags: 0
+Sequence 38 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 30
+	Event 1 Type: 0
+
+Sequence 39 Label: "crouch_reload_mp5"
+Sequence 39 Frames per sec: 30.000000
+Sequence 39 Flags: 0
+Sequence 39 Events: 0
+
+Sequence 40 Label: "ref_aim_mp5"
+Sequence 40 Frames per sec: 30.000000
+Sequence 40 Flags: 1
+Sequence 40 Events: 0
+
+Sequence 41 Label: "ref_shoot_mp5"
+Sequence 41 Frames per sec: 15.000000
+Sequence 41 Flags: 0
+Sequence 41 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 30
+	Event 1 Type: 0
+
+Sequence 42 Label: "ref_reload_mp5"
+Sequence 42 Frames per sec: 30.000000
+Sequence 42 Flags: 0
+Sequence 42 Events: 0
+
+Sequence 43 Label: "crouch_aim_shotgun"
+Sequence 43 Frames per sec: 30.000000
+Sequence 43 Flags: 1
+Sequence 43 Events: 0
+
+Sequence 44 Label: "crouch_shoot_shotgun"
+Sequence 44 Frames per sec: 30.000000
+Sequence 44 Flags: 0
+Sequence 44 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 50
+	Event 1 Type: 0
+
+Sequence 45 Label: "crouch_reload_shotgun"
+Sequence 45 Frames per sec: 30.000000
+Sequence 45 Flags: 0
+Sequence 45 Events: 0
+
+Sequence 46 Label: "ref_aim_shotgun"
+Sequence 46 Frames per sec: 30.000000
+Sequence 46 Flags: 1
+Sequence 46 Events: 0
+
+Sequence 47 Label: "ref_shoot_shotgun"
+Sequence 47 Frames per sec: 30.000000
+Sequence 47 Flags: 0
+Sequence 47 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 50
+	Event 1 Type: 0
+
+Sequence 48 Label: "ref_reload_shotgun"
+Sequence 48 Frames per sec: 30.000000
+Sequence 48 Flags: 0
+Sequence 48 Events: 0
+
+Sequence 49 Label: "crouch_aim_m249"
+Sequence 49 Frames per sec: 10.000000
+Sequence 49 Flags: 1
+Sequence 49 Events: 0
+
+Sequence 50 Label: "crouch_shoot_m249"
+Sequence 50 Frames per sec: 30.000000
+Sequence 50 Flags: 1
+Sequence 50 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 50
+	Event 1 Type: 0
+
+Sequence 51 Label: "crouch_reload_m249"
+Sequence 51 Frames per sec: 30.000000
+Sequence 51 Flags: 0
+Sequence 51 Events: 0
+
+Sequence 52 Label: "ref_aim_m249"
+Sequence 52 Frames per sec: 10.000000
+Sequence 52 Flags: 1
+Sequence 52 Events: 0
+
+Sequence 53 Label: "ref_shoot_m249"
+Sequence 53 Frames per sec: 30.000000
+Sequence 53 Flags: 1
+Sequence 53 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 50
+	Event 1 Type: 0
+
+Sequence 54 Label: "ref_reload_m249"
+Sequence 54 Frames per sec: 30.000000
+Sequence 54 Flags: 0
+Sequence 54 Events: 0
+
+Sequence 55 Label: "I_am_a_stupid_placeholder"
+Sequence 55 Frames per sec: 30.000000
+Sequence 55 Flags: 1
+Sequence 55 Events: 0
+
+Sequence 56 Label: "so_am_I"
+Sequence 56 Frames per sec: 30.000000
+Sequence 56 Flags: 0
+Sequence 56 Events: 0
+
+Sequence 57 Label: "ref_aim_grenade"
+Sequence 57 Frames per sec: 20.000000
+Sequence 57 Flags: 1
+Sequence 57 Events: 0
+
+Sequence 58 Label: "ref_shoot_grenade"
+Sequence 58 Frames per sec: 45.000000
+Sequence 58 Flags: 0
+Sequence 58 Events: 0
+
+Sequence 59 Label: "crouch_aim_grenade"
+Sequence 59 Frames per sec: 20.000000
+Sequence 59 Flags: 1
+Sequence 59 Events: 0
+
+Sequence 60 Label: "crouch_shoot_grenade"
+Sequence 60 Frames per sec: 45.000000
+Sequence 60 Flags: 0
+Sequence 60 Events: 0
+
+Sequence 61 Label: "crouch_aim_c4"
+Sequence 61 Frames per sec: 30.000000
+Sequence 61 Flags: 1
+Sequence 61 Events: 0
+
+Sequence 62 Label: "crouch_shoot_c4"
+Sequence 62 Frames per sec: 30.000000
+Sequence 62 Flags: 0
+Sequence 62 Events: 0
+
+Sequence 63 Label: "ref_aim_c4"
+Sequence 63 Frames per sec: 30.000000
+Sequence 63 Flags: 1
+Sequence 63 Events: 0
+
+Sequence 64 Label: "ref_shoot_c4"
+Sequence 64 Frames per sec: 30.000000
+Sequence 64 Flags: 0
+Sequence 64 Events: 0
+
+Sequence 65 Label: "ref_reload_c4"
+Sequence 65 Frames per sec: 30.000000
+Sequence 65 Flags: 0
+Sequence 65 Events: 0
+
+Sequence 66 Label: "crouch_aim_dualpistols_2"
+Sequence 66 Frames per sec: 10.000000
+Sequence 66 Flags: 1
+Sequence 66 Events: 0
+
+Sequence 67 Label: "crouch_shoot_dualpistols_2"
+Sequence 67 Frames per sec: 30.000000
+Sequence 67 Flags: 0
+Sequence 67 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5011
+	Event 1 Options: 10
+	Event 1 Type: 0
+
+Sequence 68 Label: "crouch_shoot2_dualpistols_2"
+Sequence 68 Frames per sec: 30.000000
+Sequence 68 Flags: 0
+Sequence 68 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 10
+	Event 1 Type: 0
+
+Sequence 69 Label: "crouch_reload_dualpistols_2"
+Sequence 69 Frames per sec: 30.000000
+Sequence 69 Flags: 0
+Sequence 69 Events: 0
+
+Sequence 70 Label: "ref_aim_dualpistols_2"
+Sequence 70 Frames per sec: 10.000000
+Sequence 70 Flags: 1
+Sequence 70 Events: 0
+
+Sequence 71 Label: "ref_shoot_dualpistols_2"
+Sequence 71 Frames per sec: 30.000000
+Sequence 71 Flags: 0
+Sequence 71 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5011
+	Event 1 Options: 10
+	Event 1 Type: 0
+
+Sequence 72 Label: "ref_shoot2_dualpistols_2"
+Sequence 72 Frames per sec: 30.000000
+Sequence 72 Flags: 0
+Sequence 72 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 10
+	Event 1 Type: 0
+
+Sequence 73 Label: "ref_reload_dualpistols_2"
+Sequence 73 Frames per sec: 30.000000
+Sequence 73 Flags: 0
+Sequence 73 Events: 0
+
+Sequence 74 Label: "crouch_aim_knife"
+Sequence 74 Frames per sec: 12.000000
+Sequence 74 Flags: 1
+Sequence 74 Events: 0
+
+Sequence 75 Label: "crouch_shoot_knife"
+Sequence 75 Frames per sec: 30.000000
+Sequence 75 Flags: 0
+Sequence 75 Events: 0
+
+Sequence 76 Label: "ref_aim_knife"
+Sequence 76 Frames per sec: 12.000000
+Sequence 76 Flags: 1
+Sequence 76 Events: 0
+
+Sequence 77 Label: "ref_shoot_knife"
+Sequence 77 Frames per sec: 30.000000
+Sequence 77 Flags: 1
+Sequence 77 Events: 0
+
+Sequence 78 Label: "crouch_aim_ak47"
+Sequence 78 Frames per sec: 30.000000
+Sequence 78 Flags: 1
+Sequence 78 Events: 0
+
+Sequence 79 Label: "crouch_shoot_ak47"
+Sequence 79 Frames per sec: 30.000000
+Sequence 79 Flags: 0
+Sequence 79 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 40
+	Event 1 Type: 0
+
+Sequence 80 Label: "crouch_reload_ak47"
+Sequence 80 Frames per sec: 30.000000
+Sequence 80 Flags: 0
+Sequence 80 Events: 0
+
+Sequence 81 Label: "ref_aim_ak47"
+Sequence 81 Frames per sec: 30.000000
+Sequence 81 Flags: 1
+Sequence 81 Events: 0
+
+Sequence 82 Label: "ref_shoot_ak47"
+Sequence 82 Frames per sec: 30.000000
+Sequence 82 Flags: 0
+Sequence 82 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 40
+	Event 1 Type: 0
+
+Sequence 83 Label: "ref_reload_ak47"
+Sequence 83 Frames per sec: 30.000000
+Sequence 83 Flags: 0
+Sequence 83 Events: 0
+
+Sequence 84 Label: "crouch_aim_shieldgren"
+Sequence 84 Frames per sec: 20.000000
+Sequence 84 Flags: 1
+Sequence 84 Events: 0
+
+Sequence 85 Label: "crouch_shoot_shieldgren"
+Sequence 85 Frames per sec: 45.000000
+Sequence 85 Flags: 0
+Sequence 85 Events: 0
+
+Sequence 86 Label: "ref_aim_shieldgren"
+Sequence 86 Frames per sec: 20.000000
+Sequence 86 Flags: 1
+Sequence 86 Events: 0
+
+Sequence 87 Label: "ref_shoot_shieldgren"
+Sequence 87 Frames per sec: 45.000000
+Sequence 87 Flags: 0
+Sequence 87 Events: 0
+
+Sequence 88 Label: "crouch_aim_shieldknife"
+Sequence 88 Frames per sec: 12.000000
+Sequence 88 Flags: 1
+Sequence 88 Events: 0
+
+Sequence 89 Label: "crouch_shoot_shieldknife"
+Sequence 89 Frames per sec: 30.000000
+Sequence 89 Flags: 0
+Sequence 89 Events: 0
+
+Sequence 90 Label: "ref_aim_shieldknife"
+Sequence 90 Frames per sec: 12.000000
+Sequence 90 Flags: 1
+Sequence 90 Events: 0
+
+Sequence 91 Label: "ref_shoot_shieldknife"
+Sequence 91 Frames per sec: 30.000000
+Sequence 91 Flags: 1
+Sequence 91 Events: 0
+
+Sequence 92 Label: "crouch_aim_shieldgun"
+Sequence 92 Frames per sec: 30.000000
+Sequence 92 Flags: 1
+Sequence 92 Events: 0
+
+Sequence 93 Label: "crouch_shoot_shieldgun"
+Sequence 93 Frames per sec: 30.000000
+Sequence 93 Flags: 0
+Sequence 93 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 10
+	Event 1 Type: 0
+
+Sequence 94 Label: "crouch_reload_shieldgun"
+Sequence 94 Frames per sec: 30.000000
+Sequence 94 Flags: 0
+Sequence 94 Events: 0
+
+Sequence 95 Label: "ref_aim_shieldgun"
+Sequence 95 Frames per sec: 30.000000
+Sequence 95 Flags: 1
+Sequence 95 Events: 0
+
+Sequence 96 Label: "ref_shoot_shieldgun"
+Sequence 96 Frames per sec: 30.000000
+Sequence 96 Flags: 0
+Sequence 96 Events: 1
+
+	Event 1 Frame: 0
+	Event 1 Event: 5001
+	Event 1 Options: 10
+	Event 1 Type: 0
+
+Sequence 97 Label: "ref_reload_shieldgun"
+Sequence 97 Frames per sec: 30.000000
+Sequence 97 Flags: 0
+Sequence 97 Events: 0
+
+Sequence 98 Label: "crouch_aim_shielded"
+Sequence 98 Frames per sec: 20.000000
+Sequence 98 Flags: 1
+Sequence 98 Events: 0
+
+Sequence 99 Label: "ref_aim_shielded"
+Sequence 99 Frames per sec: 20.000000
+Sequence 99 Flags: 1
+Sequence 99 Events: 0
+
+Sequence 100 Label: "gut_flinch"
+Sequence 100 Frames per sec: 30.000000
+Sequence 100 Flags: 0
+Sequence 100 Events: 0
+
+Sequence 101 Label: "head_flinch"
+Sequence 101 Frames per sec: 30.000000
+Sequence 101 Flags: 0
+Sequence 101 Events: 0
+
+Sequence 102 Label: "death1"
+Sequence 102 Frames per sec: 30.000000
+Sequence 102 Flags: 0
+Sequence 102 Events: 1
+
+	Event 1 Frame: 1
+	Event 1 Event: 2001
+	Event 1 Options: 
+	Event 1 Type: 0
+
+Sequence 103 Label: "death2"
+Sequence 103 Frames per sec: 30.000000
+Sequence 103 Flags: 0
+Sequence 103 Events: 1
+
+	Event 1 Frame: 1
+	Event 1 Event: 2001
+	Event 1 Options: 
+	Event 1 Type: 0
+
+Sequence 104 Label: "death3"
+Sequence 104 Frames per sec: 30.000000
+Sequence 104 Flags: 0
+Sequence 104 Events: 1
+
+	Event 1 Frame: 1
+	Event 1 Event: 2001
+	Event 1 Options: 
+	Event 1 Type: 0
+
+Sequence 105 Label: "head"
+Sequence 105 Frames per sec: 30.000000
+Sequence 105 Flags: 0
+Sequence 105 Events: 1
+
+	Event 1 Frame: 1
+	Event 1 Event: 2001
+	Event 1 Options: 
+	Event 1 Type: 0
+
+Sequence 106 Label: "gutshot"
+Sequence 106 Frames per sec: 30.000000
+Sequence 106 Flags: 0
+Sequence 106 Events: 1
+
+	Event 1 Frame: 1
+	Event 1 Event: 2001
+	Event 1 Options: 
+	Event 1 Type: 0
+
+Sequence 107 Label: "left"
+Sequence 107 Frames per sec: 30.000000
+Sequence 107 Flags: 0
+Sequence 107 Events: 1
+
+	Event 1 Frame: 1
+	Event 1 Event: 2001
+	Event 1 Options: 
+	Event 1 Type: 0
+
+Sequence 108 Label: "back"
+Sequence 108 Frames per sec: 30.000000
+Sequence 108 Flags: 0
+Sequence 108 Events: 1
+
+	Event 1 Frame: 1
+	Event 1 Event: 2001
+	Event 1 Options: 
+	Event 1 Type: 0
+
+Sequence 109 Label: "right"
+Sequence 109 Frames per sec: 30.000000
+Sequence 109 Flags: 0
+Sequence 109 Events: 1
+
+	Event 1 Frame: 1
+	Event 1 Event: 2001
+	Event 1 Options: 
+	Event 1 Type: 0
+
+Sequence 110 Label: "forward"
+Sequence 110 Frames per sec: 30.000000
+Sequence 110 Flags: 0
+Sequence 110 Events: 1
+
+	Event 1 Frame: 1
+	Event 1 Event: 2001
+	Event 1 Options: 
+	Event 1 Type: 0
+
+Sequence 111 Label: "crouch_die"
+Sequence 111 Frames per sec: 30.000000
+Sequence 111 Flags: 0
+Sequence 111 Events: 1
+
+	Event 1 Frame: 1
+	Event 1 Event: 2001
+	Event 1 Options: 
+	Event 1 Type: 0
+
+Number of Sequence Groups: 1
+
+Sequence Group 1 Label: "default"
+
+Sequence Group 1 Name: ""
+
+Sequence Group 1 Data: 0
+
+Number of Textures: 5
+Texture Index: 1101616
+Texture Data Index: 1102028
+
+Texture 1 Name: "militia5.bmp"
+Texture 1 Flags: 0
+Texture 1 Width: 512
+Texture 1 Height: 512
+Texture 1 Index: 1102028
+
+Texture 2 Name: "gimpmask.bmp"
+Texture 2 Flags: 0
+Texture 2 Width: 256
+Texture 2 Height: 256
+Texture 2 Index: 1364940
+
+Texture 3 Name: "SOequip.bmp"
+Texture 3 Flags: 0
+Texture 3 Width: 512
+Texture 3 Height: 512
+Texture 3 Index: 1431244
+
+Texture 4 Name: "SOkneepads.bmp"
+Texture 4 Flags: 0
+Texture 4 Width: 256
+Texture 4 Height: 128
+Texture 4 Index: 1694156
+
+Texture 5 Name: "Backpack1.BMP"
+Texture 5 Flags: 0
+Texture 5 Width: 244
+Texture 5 Height: 245
+Texture 5 Index: 1727692
+
+Number of Skin References: 5
+Number of Skin Families: 1
+
+Number of Body Parts: 2
+
+Body Part 1 Name: "studio"
+Body Part 1 Number of Models: 1
+Body Part 1 Base: 1
+Body Part 1 Model Index: 1019688
+
+	Sub Model 1 Name: "QQ 423068449"
+	Sub Model 1 Type: 0
+	Sub Model 1 Meshes: 4
+	Sub Model 1 Vertices: 1799
+	Sub Model 1 Normals: 1561
+	Sub Model 1 Deformation Groups: 0
+
+		Sub Model 1, Mesh 1 Total Triangles: 1016
+		Sub Model 1, Mesh 1 Triangle Index: 1063788
+		Sub Model 1, Mesh 1 Skin Reference: 0
+		Sub Model 1, Mesh 1 Total Normals: 524
+		Sub Model 1, Mesh 1 Normals Index: 0
+
+		Sub Model 1, Mesh 2 Total Triangles: 1775
+		Sub Model 1, Mesh 2 Triangle Index: 1075896
+		Sub Model 1, Mesh 2 Skin Reference: 1
+		Sub Model 1, Mesh 2 Total Normals: 812
+		Sub Model 1, Mesh 2 Normals Index: 0
+
+		Sub Model 1, Mesh 3 Total Triangles: 226
+		Sub Model 1, Mesh 3 Triangle Index: 1095716
+		Sub Model 1, Mesh 3 Skin Reference: 2
+		Sub Model 1, Mesh 3 Total Normals: 127
+		Sub Model 1, Mesh 3 Normals Index: 0
+
+		Sub Model 1, Mesh 4 Total Triangles: 180
+		Sub Model 1, Mesh 4 Triangle Index: 1098336
+		Sub Model 1, Mesh 4 Skin Reference: 3
+		Sub Model 1, Mesh 4 Total Normals: 98
+		Sub Model 1, Mesh 4 Normals Index: 0
+
+Body Part 2 Name: "backpack"
+Body Part 2 Number of Models: 2
+Body Part 2 Base: 1
+Body Part 2 Model Index: 1019800
+
+	Sub Model 1 Name: "blank"
+	Sub Model 1 Type: 0
+	Sub Model 1 Meshes: 0
+	Sub Model 1 Vertices: 0
+	Sub Model 1 Normals: 0
+	Sub Model 1 Deformation Groups: 0
+
+	Sub Model 2 Name: "bomb"
+	Sub Model 2 Type: 0
+	Sub Model 2 Meshes: 1
+	Sub Model 2 Vertices: 24
+	Sub Model 2 Normals: 26
+	Sub Model 2 Deformation Groups: 0
+
+		Sub Model 2, Mesh 1 Total Triangles: 44
+		Sub Model 2, Mesh 1 Triangle Index: 1101064
+		Sub Model 2, Mesh 1 Skin Reference: 4
+		Sub Model 2, Mesh 1 Total Normals: 26
+		Sub Model 2, Mesh 1 Normals Index: 0
+
+Number of Attatchments: 2
+Attachment 1 Name: ""
+Attachment 2 Name: ""

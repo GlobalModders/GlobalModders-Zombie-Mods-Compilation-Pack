@@ -1,0 +1,67 @@
+{
+	"name" : "FAllowMonsters",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 58
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 58
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 60
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 59
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 61
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 58
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 60
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 58
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 60
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 57
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 59
+		}
+	]
+}	

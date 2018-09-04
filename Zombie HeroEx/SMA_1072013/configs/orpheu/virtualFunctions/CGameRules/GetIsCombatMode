@@ -1,0 +1,22 @@
+{
+	"name" : "GetIsCombatMode",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 80
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 82
+		}
+	]
+}	

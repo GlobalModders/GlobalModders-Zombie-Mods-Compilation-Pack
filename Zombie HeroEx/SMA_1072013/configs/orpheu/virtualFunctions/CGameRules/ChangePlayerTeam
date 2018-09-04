@@ -1,0 +1,68 @@
+{
+	"name" : "ChangePlayerTeam",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		},
+		{
+			"type" : "char *"
+		},
+		{
+			"type" : "bool"
+		},
+		{
+			"type" : "bool"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 54
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 55
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 57
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 54
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 56
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 54
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 56
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 53
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 55
+		}
+	]
+}	

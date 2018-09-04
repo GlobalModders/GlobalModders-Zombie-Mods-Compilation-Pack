@@ -1,0 +1,22 @@
+{
+	"name" : "roundRestartSound",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "short"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 83
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 85
+		}
+	]
+}

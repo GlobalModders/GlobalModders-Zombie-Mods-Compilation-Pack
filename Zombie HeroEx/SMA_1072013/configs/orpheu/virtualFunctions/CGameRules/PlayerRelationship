@@ -1,0 +1,86 @@
+{
+	"name" : "PlayerRelationship",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBaseEntity *"
+		},
+		{
+			"type" : "CBaseEntity *"
+		}
+	],
+	"return" : 
+	{
+		"type" : "int"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 50
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 51
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 53
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 51
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 53
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 50
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 52
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 50
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 52
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 49
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 51
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 50
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 52
+		}
+	]
+}	

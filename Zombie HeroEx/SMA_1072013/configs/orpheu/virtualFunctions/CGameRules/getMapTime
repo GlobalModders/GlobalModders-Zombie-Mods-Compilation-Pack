@@ -1,0 +1,22 @@
+{
+	"name" : "getMapTime",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "int"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 75
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 77
+		}
+	]
+}	

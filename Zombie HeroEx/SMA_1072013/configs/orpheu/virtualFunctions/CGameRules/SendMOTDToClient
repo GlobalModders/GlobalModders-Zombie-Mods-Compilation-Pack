@@ -1,0 +1,34 @@
+{
+	"name" : "SendMOTDToClient",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "edict_s *"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 62
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 64
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 53
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 55
+		}
+	]
+}	

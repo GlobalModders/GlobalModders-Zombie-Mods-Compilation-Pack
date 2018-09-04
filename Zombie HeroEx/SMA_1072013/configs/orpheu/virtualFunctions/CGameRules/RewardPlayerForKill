@@ -1,0 +1,37 @@
+{
+	"name" : "RewardPlayerForKill",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "int"
+		},
+		{
+			"type" : "int"
+		},
+		{
+			"type" : "char *"
+		},
+		{
+			"type" : "int"
+		}
+	],
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 75
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 77
+		}
+	]
+}	

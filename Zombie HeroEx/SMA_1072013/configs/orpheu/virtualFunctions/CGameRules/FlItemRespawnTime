@@ -1,0 +1,83 @@
+{
+	"name" : "FlItemRespawnTime",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "float"
+	},
+	"arguments" : 
+	[
+		{
+			"type" : "CItem *"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 38
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 39
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 41
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 39
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 41
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 38
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 40
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 38
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 40
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 37
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 39
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 38
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 40
+		}
+	]
+}	

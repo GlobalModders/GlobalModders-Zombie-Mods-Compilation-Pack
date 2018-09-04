@@ -1,0 +1,22 @@
+{
+	"name" : "Camera",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "int"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 80
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 82
+		}
+	]
+}	

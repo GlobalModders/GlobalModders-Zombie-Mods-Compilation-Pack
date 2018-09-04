@@ -1,0 +1,83 @@
+{
+	"name" : "AmmoShouldRespawn",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "int"
+	},
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayerAmmo *"
+		}		
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 42
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 43
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 45
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 43
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 45
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 42
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 44
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 42
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 44
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 41
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 43
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 42
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 44
+		}
+	]
+}	

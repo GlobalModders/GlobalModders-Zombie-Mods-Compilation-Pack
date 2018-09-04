@@ -1,0 +1,77 @@
+{
+	"name" : "AllowAutoTargetCrosshair",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 23
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 23
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 25
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 23
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 25
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 23
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 25
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 23
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 25
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 22
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 24
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 23
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 25
+		}
+	]
+}	

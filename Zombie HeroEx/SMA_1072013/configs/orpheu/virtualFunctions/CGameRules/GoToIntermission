@@ -1,0 +1,73 @@
+{
+	"name" : "GoToIntermission",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 77
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 69
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 71
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 123
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 125
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 61
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 63
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 61
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 63
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 60
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 62
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 54
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 56
+		}
+	]
+}	

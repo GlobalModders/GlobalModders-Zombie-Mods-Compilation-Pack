@@ -1,0 +1,73 @@
+{
+	"name" : "ChangeLevel",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 76
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 68
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 70
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 124
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 126
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 60
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 62
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 60
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 62
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 59
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 61
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 55
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 57
+		}
+	]
+}	

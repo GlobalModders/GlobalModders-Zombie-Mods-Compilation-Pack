@@ -1,0 +1,22 @@
+{
+	"name" : "IsFreezePeriod",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 60
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 62
+		}
+	]
+}	

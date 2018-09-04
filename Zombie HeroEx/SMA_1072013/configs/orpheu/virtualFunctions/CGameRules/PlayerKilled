@@ -1,0 +1,75 @@
+{
+	"name" : "PlayerKilled",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		},
+		{
+			"type" : "entvars_s *"
+		},
+		{
+			"type" : "entvars_s *"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 27
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 28
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 30
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 27
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 29
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 27
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 29
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 26
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 28
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 27
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 29
+		}
+	]
+}	

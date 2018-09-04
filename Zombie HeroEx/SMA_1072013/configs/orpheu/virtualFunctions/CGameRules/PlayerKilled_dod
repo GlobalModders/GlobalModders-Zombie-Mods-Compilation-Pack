@@ -1,0 +1,33 @@
+{
+	"name" : "PlayerKilled_dod",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		},
+		{
+			"type" : "entvars_s *"
+		},
+		{
+			"type" : "entvars_s *"
+		},
+		{
+			"type" : "int"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 28
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 30
+		}
+	]
+}	

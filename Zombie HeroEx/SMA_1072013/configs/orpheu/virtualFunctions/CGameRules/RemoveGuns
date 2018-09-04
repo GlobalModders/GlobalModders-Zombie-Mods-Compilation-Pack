@@ -1,0 +1,18 @@
+{
+	"name" : "RemoveGuns",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 66
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 68
+		}
+	]
+}	

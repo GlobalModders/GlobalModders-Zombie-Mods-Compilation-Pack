@@ -1,0 +1,24 @@
+{
+    "name" : "SetAnimation",
+    "class" : "CBasePlayer",
+    "library" : "mod",
+    "arguments" :
+    [
+        {
+            "type" : "PLAYER_ANIM"
+        }
+    ],
+    "identifiers":
+    [
+        {
+            "os" : "windows",
+            "mod" : "cstrike",
+            "value" : [0x83,0xEC,0x48,0x53,0x55,0x8B,0xE9,0x56,0x57,0x8B,0x4D,0x04,0x8B,0x81,"*","*","*","*",0x85,0xC0,0x0F,0x84,"*","*","*","*",0x8B]
+        },
+        {
+            "os" : "linux",
+            "mod" : "cstrike",
+            "value" : "SetAnimation__11CBasePlayer11PLAYER_ANIM"
+        }
+    ]
+}

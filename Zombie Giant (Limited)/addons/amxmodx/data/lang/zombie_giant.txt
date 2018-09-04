@@ -1,0 +1,24 @@
+[en]
+NOTICE_WAITFORPLAYER = Waiting for players...
+NOTICE_GAMESTART = Game is starting... Please Wait!
+NOTICE_WINHUMAN = HUMAN WIN!
+NOTICE_WINZOMBIE = ZOMBIE WIN!
+NOTICE_COUNTING = Remaining time for zombie selection: %i second(s)!
+NOTICE_ZOMBIESELECT = Someone will become a giant zombie, becareful!
+NOTICE_ZOMBIEAPPEAR = Giant zombies have arrived!
+NOTICE_ALIVETIME = Alright! Good luck team!
+
+SKILLHUD_DIONE = [MOUSE] : Attack^n[E] : Rolling^n[R] : Poison
+SKILLHUD_TITAN = [MOUSE] : Attack^n[E] : Dashing^n[R] : Cannon
+SKILLHUD_REVENANT = [LEFT-M] : Attack^n[RIGHT-M] : Fireball^n[E] : Dashing^n[R] : Inferno
+
+WPN_MENU_NAME = Equipment
+WPN_MENU_SELECT = Select
+WPN_MENU_PRIMARY = Primary Weapon
+WPN_MENU_SECONDARY = Secondary Weapon
+WPN_MENU_MELEE = Melee Weapon
+WPN_MENU_TAKEWPN = GET WEAPONS!
+WPN_NOTICE_UNLOCKED = You've unlocked !t%s!n with !t$%i!n!
+WPN_NOTICE_NEEDMONEY = You need !t$%i!n to unlock !t%s!n...
+
+HUD_ATK = ATK

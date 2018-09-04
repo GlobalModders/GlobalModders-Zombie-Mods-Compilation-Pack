@@ -1,0 +1,83 @@
+{
+	"name" : "IsAllowedToSpawn",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"arguments" : 
+	[
+		{
+			"type" : "CBaseEntity *"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 2
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 2
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 4
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 3
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 5
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 2
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 4
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 2
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 4
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 2
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 4
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 2
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 4
+		}
+	]
+}	

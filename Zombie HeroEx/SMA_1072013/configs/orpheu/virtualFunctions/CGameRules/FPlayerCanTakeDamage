@@ -1,0 +1,86 @@
+{
+	"name" : "FPlayerCanTakeDamage",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		},
+		{
+			"type" : "CBaseEntity *"
+		}
+	],
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "SvenCoop",
+			"value" : 16
+		},
+		{
+			"os" : "windows",
+			"mod" : "cstrike",
+			"value" : 16
+		},
+		{
+			"os" : "linux",
+			"mod" : "cstrike",
+			"value" : 18
+		},
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 16
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 18
+		},
+		{
+			"os" : "windows",
+			"mod" : "valve",
+			"value" : 16
+		},
+		{
+			"os" : "linux",
+			"mod" : "valve",
+			"value" : 18
+		},
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 16
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 18
+		},
+		{
+			"os" : "windows",
+			"mod" : "ts",
+			"value" : 15
+		},
+		{
+			"os" : "linux",
+			"mod" : "ts",
+			"value" : 17
+		},
+		{
+			"os" : "windows",
+			"mod" : "tfc",
+			"value" : 16
+		},
+		{
+			"os" : "linux",
+			"mod" : "tfc",
+			"value" : 18
+		}
+	]
+}	

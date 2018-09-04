@@ -1,0 +1,22 @@
+{
+	"name" : "IsClanMatchActive",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 79
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 81
+		}
+	]
+}	

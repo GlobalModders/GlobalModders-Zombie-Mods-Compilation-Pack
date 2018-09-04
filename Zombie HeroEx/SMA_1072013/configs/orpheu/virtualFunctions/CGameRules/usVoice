@@ -1,0 +1,22 @@
+{
+	"name" : "usVoice",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "int"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 81
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 83
+		}
+	]
+}	

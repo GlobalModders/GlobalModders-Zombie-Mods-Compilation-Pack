@@ -1,0 +1,24 @@
+{
+    "name"        : "AddAmmoNameToAmmoRegistry",
+    "library"     : "mod",
+    "arguments"   :
+    [
+        {
+            "type" : "char *",
+            "info" : "szAmmoname"
+        }
+    ],
+    "identifiers" :
+    [
+        {
+            "os"    : "windows",
+            "mod"   : "cstrike",
+            "value" : [0x56,0x57,0x8B,"*","*","*",0xBE,"*","*","*","*",0x8B,"*",0x85]
+        },
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : "AddAmmoNameToAmmoRegistry__FPCc"
+        }
+    ]
+}

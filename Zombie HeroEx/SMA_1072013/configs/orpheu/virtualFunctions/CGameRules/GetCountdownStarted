@@ -1,0 +1,22 @@
+{
+	"name" : "GetCountdownStarted",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 69
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 71
+		}
+	]
+}	

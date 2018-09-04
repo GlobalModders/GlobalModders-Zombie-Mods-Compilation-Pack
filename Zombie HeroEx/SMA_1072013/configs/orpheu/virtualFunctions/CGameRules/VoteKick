@@ -1,0 +1,30 @@
+{
+	"name" : "VoteKick",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"arguments" : 
+	[
+		{
+			"type" : "CBasePlayer *"
+		},
+		{
+			"type" : "int"
+		},
+		{
+			"type" : "bool"
+		}
+	],
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "dod",
+			"value" : 62
+		},
+		{
+			"os" : "linux",
+			"mod" : "dod",
+			"value" : 64
+		}
+	]
+}	

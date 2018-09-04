@@ -1,0 +1,72 @@
+[en]
+SCAN_CLEAN = !gOn Dinh !n!!!
+SCAN_INFECTED = !tDich Benh Dang Lay Lan !n!!!
+SCAN_RESULTS = !g[Bio] !nTinh Trang:!n
+INFECTED_TXT = !g[Bio] !t%s !nda bi Lay Nhiem !!!
+INFECTED_TXT2 = !g[Bio] !tDich benh dang lan rong !!!
+INFECTED_HUD = !!! WARNING !!!^n%s da bi Lay Nhiem !!!
+INFECTED_HUD2 = !!! WARNING !!!^nDich Benh Dang Lay Lan !!!
+BOSS_APPEAR_TXT = !g[Bio] !t% !nda bien thanh !tNemesis !!!
+BOSS_APPEAR_TXT2 = !g[Bio] !tNemesis !nda xuat hien !!!
+BOSS_APPEAR_HUD = !!! WARNING !!!^n%s da chuyen hoa thanh Nemesis !!!
+BOSS_APPEAR_HUD2 = !!! WARNING !!!^nNemesis da xuat hien !!!
+MUTATION_HUD = [Ban da chuyen hoa thanh %s !!!]
+HERO_APPEAR = !!! WARNING !!!^n%s da tro thanh HERO !!!
+LEVEL_UP = Len Level %i !!!
+WIN_TXT_ZOMBIES = Zombies Win!
+WIN_TXT_SURVIVORS = Survivors Win!
+MENU_TITLE1 = Equipments
+MENU_TITLE2 = Primary
+MENU_TITLE3 = Secondary
+MENU_TITLE4 = Select Zombie Class
+MENU_BACK = Back
+MENU_MORE = More
+MENU_EXIT = Exit
+MENU_NEWWEAPONS = New Weapons
+MENU_PREVSETUP = Previous Setup
+MENU_DONTSHOW = Don't show menu again
+MENU_REENABLED = Your equip menu has been re-enabled.
+MENU_ALENABLED = Your equip menu is already enabled.
+MENU_CMDENABLE = Type ^"/guns^" in chat to re-enable your equip menu.
+MENU_CHANGECLASS = You'll mutate into a %s next time you're infected.
+CMD_MAXZOMBIES = Max zombies reached.
+CMD_INFECTED = You have infected %s.
+CMD_TEAMCHANGE = You are not allowed to change team.
+CMD_GAMENOTSTARTED = Game has not started yet.
+SUICIDEPUNISH_TXT = You have been punished for committing suicide.
+WELCOME_TXT = This server is running Biohazard v#Version#. Type /help for more info.
+HELP_MOTD :
+<html>
+	<head>
+		<style type="text/css">
+			pre
+			{
+				font-family:Verdana,Tahoma;
+				color:#FFFFFF;
+			}
+
+			body
+			{
+				background:#000000;
+				margin-left:8px;
+				margin-top:0px;
+			}
+		</style>
+	</head>
+
+	<body scroll="no">
+		<pre>
+			<img src="http://img182.imageshack.us/img182/904/bio3od0.jpg">^n
+			Biohazard v#Version# by cheap_suit^n^n^n (Remake: Dias)
+			Biohazard gameplay is a classic zombie outbreak scenario. Your goal is to^n^n
+			fight off the zombies and avoid getting infected. If you're unlucky and^n^n
+			become infected, your new goal is to infect/kill the remaining survivors.^n^n
+			^n^n^n
+			Chat Commands:^n^n
+			say /help to open this motd.^n^n
+			say /class to open the class menu.^n^n
+			say /guns to enable the equip menu.^n^n
+		</pre>
+	</body>
+</html>
+:

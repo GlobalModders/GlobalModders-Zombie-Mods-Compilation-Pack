@@ -1,0 +1,49 @@
+[en]
+NOT_ENOUGH_PLAYER = Not Enough Player to Play. Required: !t%i!n
+GOOD_LUCK = !tAre you Ready to Run :)). Good Luck !!!!n
+RUN_READY_COUNTDOWN = Ready for Run. Run After %i Second(s) !!!
+ZOMBIE_RELEASE_COUNTDOWN = Zombie Will Be Released After: %i Second(s) !!!
+HUD_SCORE = Zombies VS Humans^n %i --------- %i
+
+GAME_MENU_NAME = Game Menu
+EQUIPMENT_NAME = Equipment
+EXTRAITEM_NAME = Extra Item
+GAMEINFO_NAME = Game Information
+WPNMENU_NAME = Weapon Menu
+
+EQUIP_ENABLE = You have enabled Equipment Menu
+HOW_ENA_EQUIPMENU = Press !tM!n and !t1!n to Enable Equipment !!!
+CMD_NOT_AVALIBLE = This command not avalibe at this time
+WPN_PRIMARY = Primary
+WPN_SECONDARY = Secondary
+
+PCONFIG_NAME = Player Config
+PCONFIG_ON = On
+PCONFIG_OFF = Off
+PCONFIG_READY_SOUND = Ready Sound
+PCONFIG_BACKGROUND_SOUND = Background Sound
+
+EXTRAITEM_HUMAN_NAME = Human - Extra Item
+EXTRAITEM_ZOMBIE_NAME = Zombie - Extra Item
+EXTRAITEM_BOUGHT = You Bought: !t%s!n (!t$%i!n) !!!
+EXTRAITEM_NOTENOUGH_MONEY = You Don't Have Enoght Money to Buy: !t%s!n. Require: !t$%i!n !!!
+NO_ITEM = No Item in Menu
+
+MENU_NEW_WEAPON = New Weapon
+MENU_PRE_WEAPON = Previous Weapon
+MENU_PRE_DONTSHOW = Pre-Weapon & Don't Show
+MENU_NEXT = Next
+MENU_BACK = Back
+MENU_EXIT = Exit
+
+ESCAPE_SUCCESS = Escape Success
+ESCAPE_FAIL = Escape Failed
+ESCAPE_DRAW = Round Draw
+
+RANK_INFO = [MASTER OF SURVIVAL]
+RANK_FIRST = [1st] - %s
+RANK_SECOND = [2nd] - %s
+RANK_THIRD = [3rd] - %s
+RANK_NONE = None
+
+GAME_INFORMATION = Name: Zombie Escape<br>Author: Dias<br>Download this Plugin in Alliedmods.net

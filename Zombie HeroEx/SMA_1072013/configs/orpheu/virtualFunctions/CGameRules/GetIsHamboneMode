@@ -1,0 +1,22 @@
+{
+	"name" : "GetIsHamboneMode",
+	"class" : "CGameRules",
+	"library" : "mod",
+	"return" : 
+	{
+		"type" : "bool"
+	},
+	"indexes" : 
+	[
+		{
+			"os" : "windows",
+			"mod" : "ns",
+			"value" : 78
+		},
+		{
+			"os" : "linux",
+			"mod" : "ns",
+			"value" : 80
+		}
+	]
+}	
